@@ -1,11 +1,13 @@
 One of  my most formative experiences was, when I led a team of four, including another [civil engineering student](https://www.linkedin.com/in/oliver-rayner-a69753133/) to Benin in francophone Africa where we constructed a rainwater harvesting system for a local health clinic. The University funded mission gave budgetary freedom and allowed me to exert significant design decisions after discussion with the team present, making for an efficient process. 
 
 
-![](assets/IMG_20160820_172330.jpg)
-![](assets/IMG_20160820_180214.jpg)
+![](/assets/IMG_20160820_172330.jpg)
+
+![](/assets/IMG_20160820_180214.jpg)
+
 
 ![](/assets/IMG_20160803_131025.jpg)
-![](assets/DSC_0498.jpg)
+![](/assets/DSC_0498.jpg)
 
 The project was a unique opportunity to experience the reality of construction in a place where the cultural norms dominated and there was functionally no professional standards or regulatory enforcement or town planning laws. Thus, I acquired leadership, self-control, fast-paced technical decision making skills and gained enormous experience in negotiating with people with vested interests. Importantly, I improved my spoken French to fluency as all communication as the only francophone in the group. My personal and communication and negotiation skills were tested at every level.
 
@@ -24,17 +26,17 @@ There are endemic problems of soil erosion in this area as vegetation has been c
 The whole project was run from my laptop, via excel and autoCAD.  [Sizes and order quantities for steel, sand, cement, aggregate and all costs were managed in](/assets/Bill%20of%20Materials%20and%20Labour.xlsx) excel as the physical structure was constantly changing according to new requirements.
 
 
-![](assets/benin-elevation.jpg)
+![](/assets/benin-elevation.jpg)
 
 ## Guttering
 
 Almost immediately, the task was to find out which rooves which could harvest water from such that we had sufficient gradient to cover the gutter distance. We measured the elevation from datum each of the vertices of the rooves using a 
 [.dwg](/assets/Centre%20De%20Sante%20Plan.dwg)
 
-![](assets/benin-plan.jpg)
+![](/assets/benin-plan.jpg)
 
 ## Cleaning System
 
 Particularly difficult was the implementation of a cleaning system, a feature that had been consistently overlooked in similar examples in the area. A wide exit stopcock was required to allow any debris to pass, but the interior level of the tank was below ground level, therefore a sump was dug directly under the purge stopcock with a drainage pipe decanting surface water to a percolation ditch. This ensured that silt or debris could be removed before clogging up the percolation ditch.
 
-![](assets/IMG_20160820_180331.jpg)![](assets/IMG_20160820_182253.jpg)
+![](/assets/IMG_20160820_180331.jpg)![](/assets/IMG_20160820_182253.jpg)
