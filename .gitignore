@@ -1,0 +1,13 @@
+tmp
+*.rdb
+.**
+/_site/
+/_site/**
+/_drafts/
+/_drafts/**
+/__references/
+/__references/**
+/notebooks/*
+!/notebooks/*.ipynb
+!/notebooks/*.json
+!.gitignore
