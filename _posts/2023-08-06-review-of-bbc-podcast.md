@@ -12,7 +12,7 @@ However, this podcast gives the impression that it is possible. If you focus on 
 I transcribed the podcast with[ openai, whisper](https://github.com/Const-me/Whisper/releases) and I highlighted all the numbers with:
 
 ```
-sed -r 's/\b(\<[0-9]+\>|half|third|quarter|fifth|sixth|seventh|eighth|ninth|hundreth|thousanth|zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand|million|billion|trillion)/<span style="__\1__/gi' TheInquiry-20221117-CanACountryLiveOnRenewableEnergyAlone.txt > TheInquiry-20221117-CanACountryLiveOnRenewableEnergyAlone.md
+sed -r 's/\b(\<[0-9]+\>|half|third|quarter|fifth|sixth|seventh|eighth|ninth|hundreth|thousanth|zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand|million|billion|trillion)/ __\1__ /gi' TheInquiry-20221117-CanACountryLiveOnRenewableEnergyAlone.txt > TheInquiry-20221117-CanACountryLiveOnRenewableEnergyAlone.md
 ```
 
 [Download the full transcript here](/assets/TheInquiry-20221117-CanACountryLiveOnRenewableEnergyAlone)
