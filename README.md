@@ -1,1 +1,1 @@
-[sebbeck.com](sebbeck.com)
+[sebbeck.com](https://sebbeck.com)
