@@ -7,20 +7,15 @@ The amount of damage this radioactivity can cause in humans is known as the 'eff
 
 So, even if all this radioactivity were ingested by a single person, this person would have a 50% chance of surviving and living the rest of his life with an elevated risk of cancer.
 
-But of course, this water is so diluted before discharging it into the sea, and again diluted in the sea itself. In fact, it is so dilute even before it reaches the sea that is it would not be considered radioactive under any normal circumstance.
-According to the Japan Times in 2018: 
-
->_850,000 tons \[850e6 l\] total of water but 60,000 Bq/L of tritium is the discharge concentration for the most radiative water.
-
-This means that the average radioactivity concentration is only 1.32 μSv/L. 
+But of course, this water is so diluted before discharging it into the sea, and again diluted in the sea itself. In fact, it is so dilute even before it reaches the sea that is it would not be considered radioactive under any normal circumstance. According to the [Japan Times in 2018](https://www.japantimes.co.jp/opinion/2018/06/05/commentary/japan-commentary/tritiated-water-will-decide/#.WxcTSlOFPGL) There was about 850,000 tons of water in total (with a concentration of 60,000 Bq/L of tritium in the most radioactive water). This means that the average radioactivity concentration is only 1.32 μSv/L. 
 
 We know that there is about 0.1 μSv per Banana. In fact, this is a standard measurement. Therefore 1L of tritiated water is equivalent to 13 bananas.
 
 [Eating Brazil Nuts](http://repositorio.ipen.br/bitstream/handle/123456789/26916/22770.pdf?sequence=1) however is far more radioactive. For example , they contain Radium (Ra-228) at a concentration of 0.18mSv/kg (180μSv/kg). Therefore 1L of tritiated water is Equivalent to 7g grams of brazil nuts. Which is approximately 2 brazil nuts.
 
-The average human drinks 700L/year. Therefore, even if you directly attached your home pipes to the discharge, you likely get a dose of less than 1 mSv. In the average year, the average person receives 7mSv. 
+The average human drinks 700L/year. Therefore, even if you directly attached your home pipes to the discharge, you likely get a dose of less than 1 mSv. In the average year, the average person receives 7mSv. So, it would increase you annual dose by about 15%.
 
-## Review of Spurious Fallout-Cancer claims.
+## Review of Spurious Fallout-Cancer claims
 
 Lets read the [WHO's review of cancer report in 2013]((https://www.who.int/mediacentre/news/releases/2013/fukushima_report_20130228/en/) This assesses the estimated first year doses and makes an estimate of the much lower predicted lifetime doses. It predicts that for populations living in the most affected areas there is a:
 
