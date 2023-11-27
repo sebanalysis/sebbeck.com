@@ -8,17 +8,17 @@ In 2023, Balaji Srinivasan, a tech founder provided another clarifying lens for 
 - Either Further fill your cities with drugs, crime and homelessness, or further grow the number of guns in circulation. 
 - Hand-out further trillions of dollars to legacy corporations incapable of building anything in fake 'infrastructure bill' or hand out further trillions to arms corporations in politically fuelled wars. 
 
-These are the establishment positions and they live off each other. Ben Shapiro's explanation is a social one. He believes that the social fabric has been ripped apart. Reason an objective truth have disappeared. There are two opposite information bubbles. 
+These are the establishment positions, and they live off each other. Ben Shapiro's explanation is a social one. He believes that the social fabric has been ripped apart. Reason, and objective truth have disappeared. There are two opposite information bubbles. 
 
 ## My view
 
-Engineering innovation, the fundamental driving force behind all the progress in human existence has largely ground to a things in the physical world. 
+Engineering innovation, the fundamental driving force behind all the progress in human existence, has largely ground to halt in the physical world. 
 
-Put simply, in the 50 years from 1925 to 1975 we saw highly visible innovations in transport: flight, spaceflight, automobile networks, great leaps in comfort: universal sewerage networks,  central heating, multiple in food provision tech: the total mechanisation or agriculture and synthetic fertilizers, countless medical innovations such as
+Put simply, in the 50 years from 1925 to 1975 we saw highly visible innovations in transport (flight, spaceflight, automobile networks), great leaps in comfort (universal sewerage networks, central heating), a multiplication of food provision tech: (mechanization and synthetic fertilizers) and countless medical innovations (wide use of anaesthesia, antibiotics). It is trivializing to sum it up so briefly.
 
-In the 48 years from 1975 to  2023 what have we seen aside from the screens and what is behind them? Ask yourself what has changed about the world? Not much. This is a tragedy. 
+In the 48 years from 1975 to 2023 what have we seen aside from the screens and the technology is behind them? Ask yourself what has changed about the world? Not much. This is a tragedy. 
 
-An obvious symptom is that, global GDP diverged from energy consumption in 1970. There is a difference between the real economy and moving numbers around in a SQL database as [George Hotz puts quite well](https://geohot.github.io/blog/jekyll/update/2020/08/07/on-money-creation.html).
+An obvious symptom is that, global GDP diverged from energy consumption in 1970. There is a difference between the real economy and moving numbers around in a SQL database, as [George Hotz puts quite well](https://geohot.github.io/blog/jekyll/update/2020/08/07/on-money-creation.html).
 
 ## List of People Who I Consider Grey Tribe
 
@@ -28,7 +28,7 @@ But hopefully, the convergence of interests in actually building a better world 
 
 ### Tech People: 
 
-- [Curtis Yarvin](https://en.wikipedia.org/wiki/Curtis_Yarvin) (a.k.a. Mendicus Moldburg). [New Blog](https://graymirror.substack.com/)  ([Old blog](https://www.unqualified-reservations.org/)) - Controversial. Populariser of the "Red pill". Promotes Neo-Cameralism, where countries should be run more like joint stock companies. Three kings theory (and 70-year post-monarch periods) of America (Washington, Lincoln and Roosevelt).
+- [Curtis Yarvin](https://en.wikipedia.org/wiki/Curtis_Yarvin) (a.k.a. Mendicus Moldburg). [New Blog](https://graymirror.substack.com/)  ([Old blog](https://www.unqualified-reservations.org/)) - Controversial. Popularizer of the "Red pill". Promotes Neo-Cameralism, where countries should be run more like joint stock companies. Three kings theory of America (Washington, Lincoln and Roosevelt).
 - Balaji Srinivasan - Made some start-ups, but really just hits the nail on the head with all his podcasts. Scathing criticism of the establishment. Promoting new institutions
 - Antonio García Martínez [Twitter](https://twitter.com/antoniogm).  Scathing criticism of the Establishment. 
 - [Marc Andressen](https://pmarca.substack.com/) ([Old blog](https://pmarchive.com/)) - Made one of the first web browsers and lots of money in the 90's. Understands that the system is broken.

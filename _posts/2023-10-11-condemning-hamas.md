@@ -17,3 +17,9 @@ I think peoples motivations here are clearly tribal as always. But it is at mome
 They seem to believe in some Rousseauian vision, where if only the imperialist USA empire could unilaterally stop oppressing the poor minorities, everything would be fairer and more just. This is the same level of idiocy that the Bush and Blair administrations had about Iraq and Afghanistan; that if only they could install liberal democracy. Instead they unleashed chaos. A chaos lasting for decades, that the Iraqi people themselves attest was far worse than Saddam Hussein. 
 
 If they ignore basis ethics, promote a biased and deranged relativist lens, and work to destroy the moral integrity of civilisation, you don't get utopia. We live in a delicate balance between order and chaos, and we must tread carefully. 
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The head of the Hamas Political Bureau, Ismail Haniyeh, his deputy, Saleh Al-Arouri, and other members of the Hamas leadership &quot;prostrate in gratitude&quot; for the ongoing attacks against Israel. <a href="https://t.co/ACuajF4PTf">pic.twitter.com/ACuajF4PTf</a></p>&mdash; Gianluca Pacchiani (@GLucaPacchiani) <a href="https://twitter.com/GLucaPacchiani/status/1710542585360457977?ref_src=twsrc%5Etfw">October 7, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+

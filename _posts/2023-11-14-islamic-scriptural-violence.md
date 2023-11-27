@@ -5,7 +5,7 @@ This is a very sensitive subject, but the truth matters. It matters that Muhamme
 
 ### Quran
 
-The Quran is filled with Anti-Jewish sentiment. and this is trivially easy to prove. I used the Hilali translation, which is more descriptive. All the translations are available at https://tanzil.net/trans/ 
+I used the Hilali translation, which is more descriptive. All the translations are available at https://tanzil.net/trans/ 
 
 If you don't want to download them all manually, you can download them all with:
 
@@ -16,7 +16,7 @@ wget --recursive --no-parent --no-clobber --html-extension --convert-links --dom
 
 I have a zip of all the files and offending verses on GitHub: https://github.com/sebanalysis/quran
 
-The offending verses in the Quran don't single out the Jews, but they do mention them at least once specifically, along with Christians, as people not to take as friends and people who you must fight. Otherwise they are referred to as people of the scripture.
+The offending verses in the Quran don't single out the Jews, but they do mention them at least once specifically, along with Christians, as people not to take as friends and people who you must fight. Otherwise, they are referred to as "people of the scripture".
 
 >3|118| O you who believe! Take not as (your) Bitanah (advisors, consultants, protectors, helpers, friends, etc.) those outside your religion (pagans, __Jews__, Christians, and hypocrites) since they will not fail to do their best to corrupt you. They desire to harm you severely. Hatred has already appeared from their mouths, but what their breasts conceal is far worse. Indeed We have made plain to you the Ayat (proofs, evidences, verses) if you understand.
 
