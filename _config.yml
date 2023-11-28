@@ -1,6 +1,9 @@
 title: Seb Beck
 url: https://blog.sebbeck.com
 description: Energy and Politics
+theme: minima
+
+
 twitter:
   username: sebexor
   card: summary
@@ -19,5 +22,3 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap  
-
-
