@@ -18,6 +18,9 @@ But the three-sector model was developed in the 1930s and 40s when the proportio
 Under the current three sector model and these additional categories, workers are classified simply because of the sector of the company paying them, not the activity they are performing. The official figures suggest that 7.9% of the workforce engaged in manufacturing in the USA, 13% including mining and construction, but even in those physically productive industries, less than half are working in non-information roles in the real world. From 27:30: in [Larry Summers: The High Price of Getting it Right, Honestly with Bari Weiss](https://podcasts.apple.com/us/podcast/larry-summers-the-high-price-of-getting-it-right/id1570872415?i=1000576475537) from 18th August 2022.
 
 >_Already in the United States, only about __4%__ of our workforce is involved in production work in manufacturing. You often hear the number "10% of the people are in the manufacturing sector", but the majority of workers in manufacturing are accountants or personal assistants or marketing people or people who are doing something other than producing_
+>
+> ― [Larry Summers: The High Price of Getting it Right, Honestly with Bari Weiss](https://podcasts.apple.com/us/podcast/larry-summers-the-high-price-of-getting-it-right/id1570872415?i=1000576475537) from 18th August 2022.
+
 
 But I think there is a better definition: 'the information sector', one that represents a more relevant categorization for the modern world. In 1977 Marc Porat published ['The Information Economy: Definition and measurement'](https://books.google.fr/books/about/The_Information_Economy_Definition_and_m.html?id=OwxKp3gvk_MC&redir_esc=y) (free download) where he proposed a more useful, but not widely adopted framing which classifies all jobs as 'The Information Sector' or non-information sector.  This model is takes into account the work they are performing rather than the sector of their employer. Already, in 1977, according to his definition, 50% of the workforce participated in the information sector (page 120).
 
@@ -28,8 +31,7 @@ In 1992, [Robert M. Hayes, presented](http://web.simmons.edu/~chen/nit/NIT%2792/
 ![2022-11-13-masculinity_image_2.png](/assets/2022-11-13-masculinity_image_2.png)
 
 
-I am yet to find a 2022 version of this graph, and I don't think data is available. David Graeber notes in Bullshit Jobs:
-> "no one, to my knowledge, has pursued this particular breakdown through to the present".
+I am yet to find a 2022 version of this graph, and I don't think data is available. David Graeber notes in Bullshit Jobs _"no one, to my knowledge, has pursued this particular breakdown through to the present"_.
 
 But, to get a lower bound estimate of information sector jobs, assuming the same proportion of other sector workers are involved in information activities agriculture: 33%, industry: 44% and, services: 69%, as Hayes assumes in 1992, by reading the ratios from his graphs we would have an information sector employing of __64%__ of Americans. I would guess this to be even significantly more than this, as administration roles across all industry sectors are well-known to have ballooned even since 1990.
 
@@ -48,11 +50,15 @@ In conclusion, the vast majority of people in the USA are doing entirely abstrac
 ### Bullshit Jobs
 In addition to their abstractness, a large minority of people across the western world believe their jobs are totally meaningless. 
 
->In the UK, the question was 'Is your job making a meaningful contribution to the world'[YouGov, 2015](https://yougov.co.uk/topics/lifestyle/articles-reports/2015/08/12/british-jobs-meaningless) __Is not': 37%__ with 'Is': at 50% and 'Don't know': 13%
+>In the UK, the question was 'Is your job making a meaningful contribution to the world'
+>― [YouGov, 2015](https://yougov.co.uk/topics/lifestyle/articles-reports/2015/08/12/british-jobs-meaningless) __Is not': 37%__ with 'Is': at 50% and 'Don't know': 13%
 
->In the US, the question was, 'Do you think that your job is or is not making a meaningful contribution to the world?'[YouGov, 2015](https://today.yougov.com/topics/lifestyle/articles-reports/2015/08/14/one-quarter-americans-think-their-jobs-are-meaning) __'Is not': 24%__, with 'Is': 63%.
+>In the US, the question was, 'Do you think that your job is or is not making a meaningful contribution to the world?'
+>― [YouGov, 2015](https://today.yougov.com/topics/lifestyle/articles-reports/2015/08/14/one-quarter-americans-think-their-jobs-are-meaning) __'Is not': 24%__, with 'Is': 63%.
 
 >In the Netherlands, the question was the URL for the original poll broken (“[Vier op tien werknemers noemt werk zinloos](http://overhetnieuwewerken.nl/vier-op-tien-werknemers-noemt-werk-zinloos/) , accessed July 10, 2017"), but it is referenced in [this 2018 article](https://www.volkskrant.nl/columns-opinie/er-is-een-ongelooflijke-hoeveelheid-dode-tijd-bijgekomen~bcc09392/?referrer=https%3A%2F%2Fnews.ycombinator.com%2F) which I have extracted from the HTML and translated [in this PDF](/assets/2022-11-13-masculinity_pdf_1.pdf). It was apparently conducted by Schouten & Nelissen on 1,900 Dutch people after 2015 and claims the 40% of respondents replied that their job is meaningless. Although, I'm unclear on the original question and response options.
+>
+>― Schouten & Nelissen, 2015
 
 All polls are difficult but this one particularly so because it is very sensitive to the exact phrasing of the question, should it focus on 'meaning', 'value', 'utility', 'importance'. All of these are sensitive to the individual's prejudices and self-image, and a comprehensive definition is not provided. Secondly, this question is an existential one as work gives structure and meaning to one's life. It is not trivial to attest that your life's work was wasted. Individuals are best placed to understand the value of their own role, but they are perhaps the most likely to defend its importance, for the sake of their own ego and self-worth. But this means that then an individual claims his job is useless, we should believe him. 
 
@@ -64,10 +70,15 @@ I have written separately about the growth of speculation as an excellent source
 
 From https://wtfhappenedin1971.com/
 
-> It just seemed to make sense that, just as Wall Street profits were derived less and less from firms involved in commerce or manufacturing, and more and more from debt, speculation, and the creation of complex financial instruments, so did an ever-increasing proportion of workers come to make their living from manipulating similar abstractions. Bullshit Jobs, David Graeber, 2020.
+> It just seemed to make sense that, just as Wall Street profits were derived less and less from firms involved in commerce or manufacturing, and more and more from debt, speculation, and the creation of complex financial instruments, so did an ever-increasing proportion of workers come to make their living from manipulating similar abstractions. 
+> 
+> ― [Bullshit Jobs, David Graeber, 2020](https://en.wikipedia.org/wiki/Bullshit_Jobs).
 
 Suffice to say is clear to all of educated society knows this, especially [Nancy Pelosi definitely knows this](https://nypost.com/2022/07/23/nancy-and-paul-pelosi-are-trading-large-with-a-wealth-of-hypocrisy/) who has because amazing rich from her $200,000 a year salary. Michel Houellebecq had summed it up well in Plateforme in 2001:
+
 >'Valerie's father was forty-eight, his wife, forty-seven; they had dedicated the best years of their lives to a hopeless task. They lived in a country where, compared to speculative investment, investment in production brought little return; he understood that now'.
+>
+>― Michel Houellebecq, Plateforme, 2001
 
 Life is already unfair, but the certainty that your productive job, is worse paid than a trading job, is especially depressing.
 
@@ -86,6 +97,8 @@ In Chapter Six he talks about glossy and gloomy jobs and states:
 > This lyricism, however, ignores the most important harms that the transformation of the labor market imposes. It papers over the fact that the lousy jobs are not just boring and low-paid but also—indeed, specifically on account of job polarization—carry low status and afford no realistic prospects for advancement. 
 > ...
 > It is therefore more apt to say that the labor market has divided into gloomy and glossy jobs: gloomy because they offer neither immediate reward nor hope for promotion, and glossy because their outer shine masks inner distress.
+> 
+> — Daniel Markovitz, The Meritocracy Trap, 2019
 
 The vast majority of people are working these gloomy jobs with:
 - "little training, involve simple work, and pay low wages"
@@ -101,4 +114,6 @@ Markovitz then summaries the class resentment that this produces:
 > All the elite jobs, law firms, investment banks, management jobs, specialist medical doctors require one to have gone through a version of this fancy education. Those institutions exclude middle and working class families by the number of hoops required to jump through. Unless you are incredibly exceptional, you will not have enough privilege to get along.
 >Those that are excluded get appropriately angry and resentful and turn against the institutions, the professional companies, the forms of expertise, the schools that people on the outside correctly think are underwriting their disadvantage and exclusion. A populist like trump exploits that class resentment. Trump inherited a lot of money, but is not part of this system of training, education and professional certification that people correctly see as the principal source of their exclusion. Not his inheritance.
 > All the doctors and lawyers and bankers and CEOs and elite managers, who are training their kids and getting them into the best schools and buying houses in the best neighborhoods and getting them into the best colleges, is what keeps most Americans down.
+> 
+> — [Sam Harris Making Sense Podcast #205 - The Failure of Meritocracy, David Markovitz, May 23rd, 2020](https://pca.st/episode/ef51d089-fec5-47ba-82e6-f247ca69be16) 
 

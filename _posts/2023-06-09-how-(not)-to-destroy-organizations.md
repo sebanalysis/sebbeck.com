@@ -6,7 +6,7 @@ In 1944, the US Office of Strategic Services (OSS), the precursor to the CIA, wr
 
 The most striking parts, very reminiscent of modern work culture, are:
 
-- __General Interference with Organizatns and Production__
+- __General Interference with Organizations and Production__
 	- Make “speeches.” Talk as frequently as possible and at great length. Illustrate your “points” by long anecdotes and accounts of personal experiences. 
 	- Multiply the procedures and clearances involved in issuing instructions, pay checks, and so on. See that three people have to approve everything where one would do.
 	- Advocate “caution.” Be “reasonable” and urge your fellow-conferees to be “reasonable” and avoid haste which might result in embarrassments or difficulties later on.
@@ -15,4 +15,6 @@ The most striking parts, very reminiscent of modern work culture, are:
 
 - __General Devices for Lowering Morale and Creating Confusion__
 	- Give lengthy and incomprehensible explanations when questioned.
+
+
 

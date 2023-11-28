@@ -66,8 +66,11 @@ This describes government, and this is a tragedy:
 
 The civil service is an excessively well funded jobs program and social status ladder which performs functionally random decision making, with the illusion of purpose through retroactive reasoning. Dominic Cummings has been a solitary light drawing attention to the depths of despair that the UK civil service has fallen too:
 
-> So what does the civil service incentivise? It fundamentally incentivises an obsession on _process_, staying friends with special interests, and empire building. \[...] In the most dysfunctional organizations, signaling that work is being done becomes a better strategy for career advancement than actually doing work. If this describes your company, quit now. Now, that describes the vast majority of activity in Whitehall. It's signaling and it's process obsession. It's not obsession on quality, it's not obsession on good services, it's not obsession on trying to get some, on trying to get useful things done. [Dominic Cummings speech at IPPR - The Hollow Men (2014)](https://www.youtube.com/live/GNaWPV5l4j4?si=TgdzpEIGxV1y8OjG&t=1179), 
-> Transcript: ![](/assets/transcripts/Dominic.Cummings.speech.at.IPPR.-.The.Hollow.Men.(2014).txt)
+> So what does the civil service incentivise? It fundamentally incentivises an obsession on _process_, staying friends with special interests, and empire building. \[...] In the most dysfunctional organizations, signaling that work is being done becomes a better strategy for career advancement than actually doing work. If this describes your company, quit now. Now, that describes the vast majority of activity in Whitehall. It's signaling and it's process obsession. It's not obsession on quality, it's not obsession on good services, it's not obsession on trying to get some, on trying to get useful things done. 
+> 
+> ― [Dominic Cummings speech at IPPR - The Hollow Men (2014)](https://www.youtube.com/live/GNaWPV5l4j4?si=TgdzpEIGxV1y8OjG&t=1179) 
+> 
+> ― Transcript: ![](/assets/transcripts/Dominic.Cummings.speech.at.IPPR.-.The.Hollow.Men.(2014).txt)
 
 In the civil service in 2023, we have poor incentives build in at the root. It is a system that by definition can only produce failure because the set of incentives do misaligned with the interests of the nation. Once you truly accept this fact, you realise that there is no re-helming the ship. The only way is refounding.
 

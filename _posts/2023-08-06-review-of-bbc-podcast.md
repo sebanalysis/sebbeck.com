@@ -3,7 +3,7 @@ BBC regularly produce useless nonsense on climate change. Recently, they release
 
 The titular question was:
 
-> "Can a country live on renewable energy alone?"
+> *__"Can a country live on renewable energy alone?"__*
 
 If you assume the clauses with existing population and development levels, the answer is clearly no. 
 
@@ -19,27 +19,33 @@ sed -r 's/\b(\<[0-9]+\>|half|third|quarter|fifth|sixth|seventh|eighth|ninth|hund
 
 I have manually extracted all the numerical claims related directly to energy supply made during the entire podcast below. There were four experts and it ran for a duration of 23 minutes. 
 
-## Sarah Kurtz. Professor at the University of California:
+### Sarah Kurtz. Professor at the University of California:
 
-- Solar and wind energy make up a __tenth__ of all of the electricity generated around the world.
-- We don't need to have storage until we get up into the range of something like __15__ to __25__%.
-- Also, if we want to rely more on renewable energy, we need to build more capacity to produce it. Production capacity is currently forecast to increase by over __60__% between __2020__ and __2026__ globally.
+> Solar and wind energy make up a __tenth__ of all of the electricity generated around the world.
+>
+> We don't need to have storage until we get up into the range of something like __15__ to __25__%.
+>
+> Also, if we want to rely more on renewable energy, we need to build more capacity to produce it. Production capacity is currently forecast to increase by over __60__% between __2020__ and __2026__ globally.
 
 ### Halle Rundhur.  Director General of Iceland's National Energy Authority:
 
-- Today, __nine__ out of __ten__ houses in Iceland are heated with geothermal energy.
--  Actually over __50__ percent of newly registered cars are purely electric
+> Today, __nine__ out of __ten__ houses in Iceland are heated with geothermal energy.
+>
+> Actually over __50__ percent of newly registered cars are purely electric
 
 ### Christian Breyer. Professor for solar economy at LUT University in Finland
 
-- In the summer in the northern hemisphere solar energy is really good during daytime the wind energy is excellent in the winter __half__ year very often __24__/ __7__ and then we have to combine both resources and then of course with the renewable energy we need flexibility in the system flexibility in demand and storage.
-- __80__ percent of all batteries we need as a society we will need in vehicles typically rolling on the road so for cars for trucks for buses so there we will need most of the batteries and they're very valuable because they can indirectly balance the electricity generation we call that smart charging smart ev charging. 
+> In the summer in the northern hemisphere solar energy is really good during daytime the wind energy is excellent in the winter __half__ year very often __24__/ __7__ and then we have to combine both resources and then of course with the renewable energy we need flexibility in the system flexibility in demand and storage.
+> 
+> __80__ percent of all batteries we need as a society we will need in vehicles typically rolling on the road so for cars for trucks for buses so there we will need most of the batteries and they're very valuable because they can indirectly balance the electricity generation we call that smart charging smart ev charging. 
 
 ### Tim Buckley. Director of climate energy finance in Sydney
 
-- Australia produces a __third__ of its electricity from renewable sources it's a country tailor-made for clean energy with more sunshine than any other continent and a long coastline ideal for offshore wind farms.
-- I'm predicting the electricity price the wholesale price of electricity is going to drop by upwards of __50__ __60__ __70__ percent over the coming decade.
-- When you're looking at __20__ __million__ batteries on wheels that will play a huge function in terms of absorbing excess generation every day
+> Australia produces a __third__ of its electricity from renewable sources it's a country tailor-made for clean energy with more sunshine than any other continent and a long coastline ideal for offshore wind farms.
+>
+> I'm predicting the electricity price the wholesale price of electricity is going to drop by upwards of __50__ __60__ __70__ percent over the coming decade.
+>
+> When you're looking at __20__ __million__ batteries on wheels that will play a huge function in terms of absorbing excess generation every day
 
 ## My conclusion
 

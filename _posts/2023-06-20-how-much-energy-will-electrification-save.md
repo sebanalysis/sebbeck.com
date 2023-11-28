@@ -41,13 +41,13 @@ Its hard to find a good estimate in the literature for the total savings from el
 > 
 > These factors decrease average demand ∼23.0%, 12.6%, and 6.9%, respectively, for a total of 42.5%. Thus, WWS not only replaces fossil-fuel electricity directly but is also an energy-efficiency measure, reducing demand.
 > 
-> [_Mark Z. Jacobson et al, 100% Clean and Renewable Wind, Water, and Sunlight All-Sector Energy Roadmaps for 139 Countries of the World, Joule, Volume 1, Issue 1, 6 September 2017, Pages 108-121_ ](https://doi.org/10.1016/j.joule.2017.07.005)
+> ― [_Mark Z. Jacobson et al, 100% Clean and Renewable Wind, Water, and Sunlight All-Sector Energy Roadmaps for 139 Countries of the World, Joule, Volume 1, Issue 1, 6 September 2017, Pages 108-121_ ](https://doi.org/10.1016/j.joule.2017.07.005)
 
 In addition to this, a pro-renewable, financial think tank "Carbon Tracker" included the following claim in their report 'The Sky is the Limit'.
 
 > The technical and economic potential of solar and wind is thousands of PWh a year whilst annual electricity demand is just 27 PWh, and annual energy demand in terms of electrical energy is 65 PWh.
 > 
-> [_Carbon Tracker: Kingsmill Bond et al, The sky’s the limit_](https://carbontracker.org/reports/the-skys-the-limit-solar-wind)
+> ― [_Carbon Tracker: Kingsmill Bond et al, The sky’s the limit_](https://carbontracker.org/reports/the-skys-the-limit-solar-wind)
 
 Considering that the IEA finds annual '[Total Final Consumption](https://www.iea.org/reports/key-world-energy-statistics-2020/final-consumption)' to be 115PWh (9938 Mtoe), Carbon Tracker are also implying a demand reduction of approximately 43% in an all-electric scenario.
 

@@ -3,14 +3,22 @@ The Fukushima radiation dose is not something we should be worried about from a 
 In short; 
 
 > 1L of Fukushima water is equivalent to __13 bananas__ or __2 brazil nuts__.
+> 
+> —  Me, 2021
 
 And;
 
 > If you drank 2L of Fukushima water a day, you would increase your annual radiation dose by about 15%. You would do worse by moving to Cornwall. In Cornwall the annual natural radiation dose is **7.8 mSv** which is more than three times the UK average.
+> 
+> —  Me, 2021
+
+
 
 And finally;
 
 > If all the radioactivity in the entire fukushima inventory were ingested by a single person, this person would have a 50% chance of surviving and living the rest of his life with an elevated risk of cancer.
+> 
+> —  Me, 2021
 
 
 ## Discharge of radioactive water
@@ -36,10 +44,14 @@ We know that there is about 0.1 μSv per Banana. In fact, this is a standard me
 [Eating Brazil Nuts](http://repositorio.ipen.br/bitstream/handle/123456789/26916/22770.pdf?sequence=1) however is far more radioactive. For example , they contain Radium (Ra-228) at a concentration of 0.18mSv/kg (180μSv/kg). Therefore 1L of tritiated water is Equivalent to 7g grams of brazil nuts. Which is approximately 2 brazil nuts.
 
 > 1L of Fukushima water is equivalent to __13 bananas__ or __2 brazil nuts__.
+> 
+> —  Me, 2021
 
 The average human drinks 700L/year. Therefore, even if you directly attached your home water pipes to the discharge, you likely get a dose of less than 1 mSv. In the average year, the average person receives 7mSv. So, it would increase your annual dose by about 15%.
 
 > If you drank 2L of Fukushima water a day, you would increase your annual radiation dose by about 15%. You would do worse by moving to Cornwall. In Cornwall the annual natural radiation dose is **7.8 mSv** which is more than three times the UK average.
+> 
+> —  Me, 2021
 
 ## Review of Spurious Fallout-Cancer claims
 

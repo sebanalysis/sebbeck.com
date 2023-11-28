@@ -10,7 +10,7 @@ The key characteristic of the managerial society which contrasts with the bourge
 
 > The term professional–managerial class (PMC) refers to a social class within capitalism that, by controlling production processes through occupying a superior management position, is neither proletarian nor bourgeois
 > 
-> Marc Andreessen (@pmarca) [May 1, 2022](https://twitter.com/pmarca/status/1520581769342332929?ref_src=twsrc%5Etfw)
+> — Marc Andreessen (@pmarca) [May 1, 2022](https://twitter.com/pmarca/status/1520581769342332929?ref_src=twsrc%5Etfw)
 
 The problem is not capitalism itself, but the forms of corruption that have crushed innovation and increased inequality. Corruption is mostly enabled by the excessive abstraction of management, processes and ownership from real production and real services.  
 
@@ -71,6 +71,7 @@ Do we actually live in a capitalist market economy or a managed oligopolistic ec
 There are two contrasting policies which encapsulate the problem:
 1. in 1970, the [Environmental Protection Agency](https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency) (EPA) was founded to regulate all pollution and;
 2. in 1973, [Project Independence](https://en.wikipedia.org/wiki/Project_Independence) was launched, which like the French aimed at total energy independence by the  year 2000. It surveyed all the available tech and concluded that nuclear was the answer. 
+
 These are _equally_ important projects, but the regulation progressed without problems, but no nuclear power was delivered.
 
 We live in a society where only the 'seen' is taken into account. The 'unseen', that is the costs from _not_ taking action, are not effectively appraised. The same can be said of the lack of COVID challenge trials. Our governments are incapable of taking calculated risk. But in the additional 6-9 months, when we waited for the double-blind trials to complete, millions of vaccine-preventable deaths occurred. The one good thing is work injuries are down.
@@ -83,6 +84,10 @@ The podcast [Sam Harris - Making Sense #290 - What Went Wrong? - A Conversation 
 >Sam: "So, is it the principal agent problem; the misalignment of incentives?"
 >
 >Marc: "Exactly, 100%. If you are a Fortune 500 CEO, you're going to make 50 million dollars a year as long as you don't get fired. A number one priority for you in your life is; « I'm going to hold on to this job for as long as I possibly can ». And every year that goes by is 50 million bucks in the bank, generational wealth for my family for 1000 generations to come. Don't get fired, Don't get fired, don't get fired. So how do you go about not getting fired; don't change anything, don't do anything, take no risk, do not go out on a limb, do not try new things, don't try and do new things. Don't do anything that is going to perturb. I have a CEO friend whose colloquialism is; you don't fuck with the magic. It's working; you just don't break it. This is what they teach a Stanford Business School and Harvard Business School: you run it, by managing. They call it management school for a reason. You manage it, you run it. You do not break it, you don't take risk. So as a consequence, they don't make new things. So as a consequence, the arbitrage opportunity, the ability to make money by making new things falls on your Jeff Bezos, your Elon Musk, the people we fund and back to start new companies in the model of the previous form of capitalism which was bourgeois capitalism. But we are a rounding error on the system. If you total up all venture capital and all privately backed tech companies and, by the way, tally the number of companies in the Fortune 500 that are still run by their founders, it's like 6. So the old model of capitalism keeps coming back because you can make money doing it because its the only way you can do new things. But managerial capitalism runs the economy. And managerial capitalism broadly runs the system, the state, that we live under. It spans the Fortune 500, the big companies, the government bureaucracies, the press, the universities, it's a classical oligarchic class. They are all agents, they're zero-principles. Nobody is in charge, nobody has the power, nobody has accountability, nobody has any of this stuff, and they do what they do, and we expect this system to do things differently and do things they used to do in the old days. Like, for example, why don't we have any new cities. Where are the new bridges, the new freeways, the new reactors, the factories for PPE for COVID, the new chip plants. And then we wake up 50 years into this, and we're like we don't have any of those things, we can't do any of those things anymore. And this is my big conclusion. This is the system we designed and we wanted it. It's weird because it's like a shadow. It's not the constitution as it's written, it's some other thing, but whatever, but whatever it is it's obviously much more important. As far as I can tell, we'll just keep running like this in perpetuity and see what happens.
+>
+>— [Sam Harris - Making Sense #290 - What Went Wrong? - A Conversation with Marc Andreessen, July 21, 2022](https://www.samharris.org/podcasts/making-sense-episodes/290-what-went-wrong)  
+
+
 
 ## The Pretense
 
@@ -96,14 +101,15 @@ A devil's advocate line of questioning might be:  _"You suggest there is a lack 
 
 Progressivist identity politics has arisen whilst economically left wing and that now controls the norms of polite society, currently causing deep changes to behavioral norms and institutional practices.  To name a few: MeToo, Trans-Rights and BLM sweep western world. But the lack of economic relevance of these movements is precisely the reason for their success. Notice that the 'social-progress' has been limited social identity groups: sex, gender-identity, sexuality, race, abled-ness and, (a certain) religion. It costs very little for a corporation to create arbitrary rules on identity, especially when their revenue is related more to their ability to maintain regulatory control than deliver effective market competition.
 
-
 ![](/assets/2022-11-13-managerial-capitalism-image-1.png)
 
 The result is, that we are still stuck with 18th, 19th and early 20th century political terms like left-right, communist-fascist. And in the same way that the terms 'safety' and 'quality' are used to clobber any technical innovation, the terms 'sexist, racist and fascist' are used to clobber any ideological innovation. Our cultural imperative of tolerance and human rights, born after the allied victory in WW2 has become a peerless political weapon.
 
 But this weapon has been wielded all too liberally in recent years. The free handedness with which these virtue signaling accusations are dolled out is one thing, but often those dealing them cannot pretend to have even shred of integrity themselves. And the patent triviality of these word games contrast gravely with the consequences the victims have to bear. Our worst taboos are tripwires to every comment we make on a difficult issue and the result is a conversational status quo, with ever increasing puritanical controls. The word game has also become a total farce to everyone involved, a theater without any meaning beyond itself. Was it ever thus? No, and even if it were, it needs to be urgently reformed.
 
-> Fires will be kindled to testify that two and two make four. Swords will be drawn to prove that leaves are green in summer. We shall be left defending, not only the incredible virtues and vanities of human life, but something more incredible still, this huge impossible universe which stares us in the face. (G.K. Chesterton, [Heretics](https://www.goodreads.com/work/quotes/1884008), first published 1905)
+> Fires will be kindled to testify that two and two make four. Swords will be drawn to prove that leaves are green in summer. We shall be left defending, not only the incredible virtues and vanities of human life, but something more incredible still, this huge impossible universe which stares us in the face. 
+> 
+> — [G.K. Chesterton, Heretics, 1905](https://www.goodreads.com/work/quotes/1884008)
 
 Almost everything is about signalling and prestige, almost nothing is about figuring out reality, hence, for example, why media coverage of politics seems to be deranged and surreal to those who are the objects of the coverage.
 
