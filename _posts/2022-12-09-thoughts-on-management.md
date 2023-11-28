@@ -20,6 +20,11 @@ As the organization grows, resisting this becomes even more difficult and incent
 
 > Any organization with a large, protected income will tend by default toward administrative bloat. It's the same in government, at Harvard, at Google. Unless you take explicit measures to avoid it, you'll over hire. And then you have a second problem: all the unnecessary people you've hired become a drag on the necessary ones. The unproductive people need to seem like they're achieving something, so they'll organize meetings to waste the time of the productive ones. If anyone has avoided administrative bloat, it might be DARPA. They seem to have a culture of explicitly avoiding the pitfalls of bureaucracy. (Paul Graham, [Twitter](https://twitter.com/paulg/status/1588113756189597696?s=20&t=-KxfSin4Qlyzie-TEeguDA) 2022) 
 
+> "_All orgs get to the point where their internal processes and systems are decaying faster than any sort of intervention can save them. Like leprosy or necrotizing fasciitis, the patient still lives but their days are numbered... Keeping a bloated workforce busy on some make work Potemkin project doesn’t provide job security. It just kicks the can down the road. _"[SLS: Is cancellation too good? – Casey Handmer's blog (wordpress.com)](https://caseyhandmer.wordpress.com/2021/02/24/sls-is-cancellation-too-good/)
+
+Suffering through the inherited dogmatic processes of a previous generation breeds a sort of learned helplessness.
+
+The vision statement poster pinned to the wall in the HR department which appeals to dynamism, interpersonal trust and quality control does not reflect the corporate culture. In fact, it reflects what is missing. Culture is what is actually seen to be punished and rewarded within an organization. 
 
 Bearing this in mind, the following is an attempt to summarizes the key antidotes to the entropy.
 
@@ -30,6 +35,8 @@ My philosophy of management consists of 3 maxims: transparency, simplification, 
 - Goal-orientation: The purpose of the business is to make money from delivering a product. I refuse to rent seek or justify it as 'operating under the fiduciary responsibility to shareholders'. This only moves humanity backward. What is required to motivate people is a constant awareness of the goal. We should work to constantly and iteratively redefine the goal. 
 
 Work should be useful. Work is rewarding not when it is 'fun' but when you can see the underlying purpose of the enterprise, and you are shouldering the load. It is possible to motivate people to show up and comply via pure financial incentives, but it is not possible to make them benefit the company by sacrificing the expedient for the correct.
+
+> "Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away."  [Antoine de Saint-Exupéry](https://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry)
 
 When it has occurred to me, I have tried to note down the following practices:
 
@@ -48,6 +55,8 @@ When it has occurred to me, I have tried to note down the following practices:
 - Review relevance of regular ongoing meetings.
 - You need a physical office for inducting new employees. Those with longer running relationships still need regular meet-ups.
 - Hybrid work strategy is best, with perhaps an informal yearly quota of 10-20% of time in office.
+
+## 
 
 ## Removing Hearsay
 
