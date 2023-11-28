@@ -1,24 +1,11 @@
-title: Seb Beck
-url: https://blog.sebbeck.com
-description: Energy and Politics
+title: sebanalysis
+email: sebanalysis@protonmail.com
+description: >-
+  A place to learn about the taxonomy of things.
+twitter_username: sebanalysis
+github_username: sebanalysis
 theme: minima
 
 
-twitter:
-  username: sebexor
-  card: summary
-author:
-  twitter: sebexor
-  name: sebexor
-  avatar: # Add avatar URL here or remove the line
-  email: sebbeck@protonmail.com
-  url: https://sebbeck.com
-github: 
-  username: sebanalysis
-permalink: pretty
-repository: sebanalysis/sidey
-
 plugins:
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap  
+  - jekyll-feed
