@@ -144,14 +144,9 @@ The Adadith 500, is another Hadith, with a shorter list of the top sayings of th
 
 In Islamic tradition, the biographies of Prophet Muhammad are known as "Sira" or "Sirah," which literally means "life" or "journey." There is no single "official" biography of Muhammad, as various scholars have written different accounts. However, some of the earliest and most respected Sirah works include:
 
-1. **Sirat Rasul Allah** by Ibn Ishaq:
-        - Written in the 8th century, this is one of the earliest biographies of Muhammad. However, the original text by Ibn Ishaq does not survive; what we know of it comes from later historians like Ibn Hisham and Al-Tabari, who used it as a source.
-2. **Sirah Ibn Hisham**:
-    
-    - An edited version of Ibn Ishaq's work, Ibn Hisham’s "Sirah" is one of the most accessible and widely read biographies of Muhammad. Ibn Hisham died in 833 CE, and his work is considered critical in the study of early Islam.
-3. **Tarikh al-Rusul wa al-Muluk** (The History of Prophets and Kings) by Al-Tabari:
-    
-    - Written by the Persian historian Al-Tabari, this extensive historical chronicle, which includes a section on the life of Muhammad, is another primary source for the early history of Islam and the biography of Muhammad.
+1. **Sirat Rasul Allah** by Ibn Ishaq: Written in the 8th century, this is one of the earliest biographies of Muhammad. However, the original text by Ibn Ishaq does not survive; what we know of it comes from later historians like Ibn Hisham and Al-Tabari, who used it as a source.
+2. **Sirah Ibn Hisham**: An edited version of Ibn Ishaq's work, Ibn Hisham’s "Sirah" is one of the most accessible and widely read biographies of Muhammad. Ibn Hisham died in 833 CE, and his work is considered critical in the study of early Islam.
+3. **Tarikh al-Rusul wa al-Muluk** (The History of Prophets and Kings) by Al-Tabari: Written by the Persian historian Al-Tabari, this extensive historical chronicle, which includes a section on the life of Muhammad, is another primary source for the early history of Islam and the biography of Muhammad.
 
 These biographies, based on oral traditions, Hadiths, and the companions' accounts, form the basis of much of what is known about Muhammad's life. They are not considered sacred texts like the Quran, but they are highly respected and used for historical and religious purposes.
 
@@ -170,13 +165,13 @@ It matters that the ratio of inconvenient to benign verses in the Quran is very 
 
 The doctrine of immediate ascent to paradise after martyrdom is explicitly discussed multiple times. The reward of paradise is highly relevant to someone's willingness to martyr themselves in the struggle for global dominance of the religion.
 
-Whereas in the bible there is only an _implied_ mention of such an immediate presence with god after death: __"my desire is to depart and be with Christ"__. It is not an exaggeration to say that the entire contemporary Christian view of heaven _immediately_ after death is taken from this one verse inside Paul's letter to the Philippians. A fact I got from [Bart Ehrman](https://en.wikipedia.org/wiki/Bart_D._Ehrman) on [Sam Harris | #125 - What is Christianity? A Conversation with Bart Ehrman](https://www.samharris.org/podcasts/making-sense-episodes/what-is-christianity)
+Whereas in the bible there is only an _implied_ mention of such an immediate presence with god after death: __"my desire is to depart and be with Christ"__. It is not an exaggeration to say that the entire contemporary Christian view of heaven _immediately_ after death is taken from this one verse inside Paul's letter to the Philippians. A fact I got from [Bart Ehrman](https://en.wikipedia.org/wiki/Bart_D._Ehrman) on [Sam Harris #125 - What is Christianity? A Conversation with Bart Ehrman](https://www.samharris.org/podcasts/making-sense-episodes/what-is-christianity)
 
-> 21 For to me, living is Christ and dying is gain. 22 If I am to live in the flesh, that means fruitful labour for me; and I do not know which I prefer. 23 I am hard pressed between the two: my desire is __to depart and be with Christ__, for that is far better;[Philippians 1:21-24 NRSVA](https://www.biblegateway.com/passage/?search=Philippians%201%3A21-24&version=NRSVA)
+> 21 For to me, living is Christ and dying is gain. 22 If I am to live in the flesh, that means fruitful labour for me; and I do not know which I prefer. 23 I am hard pressed between the two: my desire is __to depart and be with Christ__, for that is far better; - [Philippians 1:21-24 NRSVA](https://www.biblegateway.com/passage/?search=Philippians%201%3A21-24&version=NRSVA)
 
 Briefly in Paul's letter to the Thessalonians , it discusses the Day of Judgement at the end of the world where "those in Christ" will be raised from the dead, whereas the dead will stay dead. 
 
-> 16 For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first. 17 After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever.[1 Thessalonians 4 NIV](https://www.biblegateway.com/passage/?search=1%20Thessalonians%204&version=NIV)
+> 16 For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first. 17 After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever. - [1 Thessalonians 4 NIV](https://www.biblegateway.com/passage/?search=1%20Thessalonians%204&version=NIV)
 
 In Revelation, there is extensive discussion of the Day of Judgement. In general there is very poor scriptural evidence for paradise, and thus martyrdom in Christianity.
 
