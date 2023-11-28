@@ -34,14 +34,9 @@ Which equilibrium state would you rather live in:
 - a bloated and inefficient government which wrenches raw cash via tax from oligopolies to give as pittance to the masses who are largely engaged in make-work jobs. No meaningful innovation. Run by managers who are trained in glorified etiquette classes and networking experiences MBA's to advance their salary capture adventure via their stakeholder management. Regulation is constantly added.
 - a targeted and efficient government focussing on key industries with a flourishing ecosystem of new companies are constantly challenging the dogma of the old firms and redistributing wealth through organic, durable means. Built on innovation and one has run by builders and pioneers who are wrought and calibrated by the real world, and one is. Regulation is being limited and rationally applied.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">There’s the individual dimension of capitalism: iconoclastic, heroic, entrepreneurial, risk-tolerant.<br><br>And then there is the bureaucratic dimension: corporatist, conformist, HRified, risk-averse.<br><br>Woke Capital is the latter. They don’t like capitalism, they like the worst parts.</p>&mdash; Balaji (@balajis) <a href="https://twitter.com/balajis/status/1494953845931520000?ref_src=twsrc%5Etfw">February 19, 2022</a></blockquote>
-
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">That might be obvious, but I had to put my finger on it. Why did these people who purported to hate capitalism become omnipresent at big companies?<br><br>Partly hypocrisy, yes. But also…these people wanted reward, not risk. Power, not purpose. And a big company, not a small startup.</p>&mdash; Balaji (@balajis) <a ref="https://twitter.com/balajis/status/1494954551979700227?ref_src=twsrc%5Etfw">February 19, 2022</a></blockquote>
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">All the parts the founder likes about capitalism — the creativity, the lack of structure, the adventure, and the motivation provided by the yawning chasm of failure below — is what repels the conformist.<br><br>They hate economic risk as viscerally as the founder loves it.</p>&mdash; Balaji (@balajis) <a href="https://twitter.com/balajis/status/1494958669842497538?ref_src=twsrc%5Etfw">February 19, 2022</a></blockquote>
+> There’s the individual dimension of capitalism: iconoclastic, heroic, entrepreneurial, risk-tolerant.<br><br>And then there is the bureaucratic dimension: corporatist, conformist, HRified, risk-averse.<br><br>Woke Capital is the latter. They don’t like capitalism, they like the worst parts.
+>  That might be obvious, but I had to put my finger on it. Why did these people who purported to hate capitalism become omnipresent at big companies?<br><br>Partly hypocrisy, yes. But also…these people wanted reward, not risk. Power, not purpose. And a big company, not a small startup.
+>  All the parts the founder likes about capitalism — the creativity, the lack of structure, the adventure, and the motivation provided by the yawning chasm of failure below — is what repels the conformist.<br><br>They hate economic risk as viscerally as the founder loves it.</p>&mdash; Balaji (@balajis) <a href="https://twitter.com/balajis/status/1494958669842497538?ref_src=twsrc%5Etfw">February 19, 2022</a>
 
 The problem is not wealth itself. It is that wealth should be the result of delivering a useful service. The rules of the game, however unfair, should be known and agreed. As this point, it is worth declaring my bias. I was raised under the assumption that despite how unfair and unequal life is, despite the inequality in genetics, parenting, friends, location and generational wealth. We were all engaged in a common project of building and supporting the world around us. And however unfair and unequal the rewards were, they were at least related to delivering a service. You can make money by improving efficiency. 
 
@@ -69,7 +64,7 @@ Everything we take for granted is thanks to innovation, and the engine of global
 Do we actually live in a capitalist market economy or a managed oligopolistic economy that is intertwined with the government?. The economy is dominated by sector after sector of old-line, Fortune 500 monopolistic entities that are nominally private companies but in reality they have achieved regulatory capture. Every now or then we'll get an Elon Musk and Jeff Bezos, but we are largely insulated from innovating technologists.
 
 There are two contrasting policies which encapsulate the problem:
-1. in 1970, the [Environmental Protection Agency](https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency) (EPA) was founded to regulate all pollution and;
+1. The [Energy Reorganization Act of 1974](https://en.wikipedia.org/wiki/Energy_Reorganization_Act_of_1974) moved the safety regulation of nuclear power into a new agency—the [Nuclear Regulatory Commission](https://en.wikipedia.org/wiki/Nuclear_Regulatory_Commission);
 2. in 1973, [Project Independence](https://en.wikipedia.org/wiki/Project_Independence) was launched, which like the French aimed at total energy independence by the  year 2000. It surveyed all the available tech and concluded that nuclear was the answer. 
 
 These are _equally_ important projects, but the regulation progressed without problems, but no nuclear power was delivered.
@@ -109,7 +104,7 @@ But this weapon has been wielded all too liberally in recent years. The free han
 
 > Fires will be kindled to testify that two and two make four. Swords will be drawn to prove that leaves are green in summer. We shall be left defending, not only the incredible virtues and vanities of human life, but something more incredible still, this huge impossible universe which stares us in the face. 
 > 
-> — [G.K. Chesterton, Heretics, 1905](https://www.goodreads.com/work/quotes/1884008)
+> — [G.K. Chesterton, "Heretics", Essay 20: Concluding Remarks on the Importance of Orthodoxy, 1905](https://www.gutenberg.org/ebooks/470)
 
 Almost everything is about signalling and prestige, almost nothing is about figuring out reality, hence, for example, why media coverage of politics seems to be deranged and surreal to those who are the objects of the coverage.
 
