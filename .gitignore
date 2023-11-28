@@ -7,7 +7,11 @@ tmp
 /_drafts/**
 /__references/
 /__references/**
+/Excalidraw/
+/Excalidraw/**
 /notebooks/*
 !/notebooks/*.ipynb
 !/notebooks/*.json
 !.gitignore
+
+## You need the Notebooks one!
