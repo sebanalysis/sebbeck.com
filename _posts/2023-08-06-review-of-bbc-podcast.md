@@ -15,7 +15,7 @@ I transcribed the podcast with[ openai, whisper](https://github.com/Const-me/Whi
 sed -r 's/\b(\<[0-9]+\>|half|third|quarter|fifth|sixth|seventh|eighth|ninth|hundreth|thousanth|zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand|million|billion|trillion)/ __\1__ /gi' TheInquiry-20221117-CanACountryLiveOnRenewableEnergyAlone.txt > TheInquiry-20221117-CanACountryLiveOnRenewableEnergyAlone.md
 ```
 
-[Download the full transcript here](/assets/TheInquiry-20221117-CanACountryLiveOnRenewableEnergyAlone)
+[Download the full transcript here](assets/transcripts/TheInquiry-20221117-CanACountryLiveOnRenewableEnergyAlone.md)
 
 I have manually extracted all the numerical claims related directly to energy supply made during the entire podcast below. There were four experts and it ran for a duration of 23 minutes. 
 
