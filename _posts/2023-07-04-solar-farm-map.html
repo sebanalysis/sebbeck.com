@@ -1,0 +1,617 @@
+---
+layout: fullscreen
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solar energy map</title>
+
+    <!-- brings in an external stylesheet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js">
+    </script>
+
+    <style>
+        body {
+            font-family: Consolas, Courier New, Monaco, monospace;
+        }
+
+        #control {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: rgba(255, 255, 255, 0.8);
+            padding: 10px;
+            border-radius: 5px;
+            z-index: 1000;
+            text-align: right;
+        }
+
+        #control .input-container {
+            margin-bottom: 10px;
+        }
+    </style>
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+    <style>
+        .button {
+            background-color: rgba(255, 255, 255, 0);
+            border: none;
+            cursor: pointer;
+            padding: 0;
+        }
+
+        .big-button {
+            font-size: 23px;
+        }
+    </style>
+    <style>
+        .input-container {
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+        }
+
+        .input-container label {
+            margin-right: 10px;
+            text-align: right;
+        }
+
+        .input-container input[type="number"] {
+            text-align: center;
+            width: 50px;
+        }
+
+        .input-container .button {
+            margin-left: 10px;
+        }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+    </style>
+    <style>
+        /* .switch {
+            position: relative;
+            display: inline-block;
+            width: 60px;
+            height: 34px;
+        }
+
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #ccc;
+            -webkit-transition: .4s;
+            transition: .4s;
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 26px;
+            width: 26px;
+            left: 4px;
+            bottom: 4px;
+            background-color: white;
+            -webkit-transition: .4s;
+            transition: .4s;
+        }
+
+        input:checked+.slider {
+            background-color: #E21C90;
+        }
+
+        input:focus+.slider {
+            box-shadow: 0 0 1px #2196F3;
+            background-color: #E21C90;
+        }
+
+        input:checked+.slider:before {
+            -webkit-transform: translateX(26px);
+            -ms-transform: translateX(26px);
+            transform: translateX(26px);
+        } */
+    </style>
+</head>
+
+<body style="margin: 0;">
+    <div id="mapid" style="height: 100vh; width: 100vw;"></div>
+    <div id="control">
+        <button class="button big-button" onclick="dropdown(this)"><i class="fas fa-bars"></i></button>
+        <div>
+            <div>
+                <label for="pv-toggle" class="switch">PV Panel Only <a href=""><i
+                            class="fa-solid fa-circle-info"></i></a>
+                    <input type="checkbox" id="pv-toggle">
+                    <span class="slider round"></span>
+                </label>
+            </div>
+            <hr>
+            <div style="display: flex; justify-content: center;">
+                <b>Demand Assumptions</b>
+            </div>
+            <div class="input-container">
+                <label for="growth">Growth <a href="/2023/06/13/solar-land-area#growth"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="number" id="growth" onchange=addCountries() min="0" step="1">
+                <button class="button" onclick="resetInput('growth')"><i class="fas fa-undo-alt"></i></button>
+
+            </div>
+            <div class="input-container">
+                <label for="proportion">Solar Proportion <a href="/2023/06/13/solar-land-area#Proportion-of-Solar"><i
+                            class="fa-solid fa-circle-info"></i></a>
+                </label>
+                <input type="number" id="proportion" onchange=addCountries() min="0" max="1" step="0.1">
+                <button class="button" onclick="resetInput('proportion')"><i class="fas fa-undo-alt"></i></button>
+            </div>
+            <div class="input-container">
+                <label for="efficiency">Efficiency <a href="/2023/06/13/solar-land-area#efficiency"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="number" id="efficiency" onchange=addCountries() min="0" max="1" step="0.1">
+                <button class="button" onclick="resetInput('efficiency')"><i class="fas fa-undo-alt"></i></button>
+
+            </div>
+            <div class="input-container">
+                <label for="correction">Correction <a href="/2023/06/13/solar-land-area#correction"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="number" id="correction" onchange=addCountries() min="0" max="1" step="0.1">
+                <button class="button" onclick="resetInput('correction')"><i class="fas fa-undo-alt"></i></button>
+
+            </div>
+            <div class="input-container">
+                <label for="overbuild">Solar Overbuild <a href="/2023/06/13/solar-land-area#overbuild"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="number" id="overbuild" onchange=addCountries() min="0" step="1">
+                <button class="button" onclick="resetInput('overbuild')"><i class="fas fa-undo-alt"></i></button>
+            </div>
+            <hr>
+            <div style="display: flex; justify-content: center;">
+                <b>Supply Assumptions</b>
+            </div>
+            <div class="input-container">
+                <label for="peak">Peak Farm Capacity W·m⁻² <a href="/2023/06/13/solar-land-area#installed"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="number" id="peak" onchange=addCountries() min="0" step="10">
+                <button class="button" onclick="resetInput('peak')"><i class="fas fa-undo-alt"></i></button>
+
+            </div>
+
+            <div class="input-container">
+                <label for="embodied">Embodied Energy <a href="/2023/06/13/solar-land-area#embodied"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="number" id="embodied" onchange=addCountries() min="0" max="1" step="0.1">
+                <button class="button" onclick="resetInput('embodied')"><i class="fas fa-undo-alt"></i></button>
+
+            </div>
+            <div class="input-container">
+                <label for="availability">Availability Factor <a href="/2023/06/13/solar-land-area#availability"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="number" id="availability" onchange=addCountries() min="0" max="1" step="0.1">
+                <button class="button" onclick="resetInput('availability')"><i class="fas fa-undo-alt"></i></button>
+
+            </div>
+
+
+            <hr>
+            <div style="display: flex; justify-content: center;">
+                <b>Other Land Areas</b>
+            </div>
+
+            <div>
+                <label for="isa-toggle">Human Structures 2000 <a
+                        href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3841857/"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="checkbox" id="isa-toggle">
+            </div>
+            <div>
+                <label for="rural-toggle">Rural 2010 <a href="https://www.gapminder.org/data/"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="checkbox" id="rural-toggle">
+            </div>
+            <div>
+                <label for="urban-toggle">Urban 2010 <a href="https://www.gapminder.org/data/"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="checkbox" id="urban-toggle">
+            </div>
+            <div>
+                <label for="forest-toggle">Forested 2020 <a href="https://www.gapminder.org/data/"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="checkbox" id="forest-toggle">
+            </div>
+            <div>
+                <label for="agri-toggle">Agricultural 2020 <a href="https://www.gapminder.org/data/"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="checkbox" id="agri-toggle">
+            </div>
+            <div>
+                <label for="installed-toggle">Solar Estimate 2023 <a href="https://www.gapminder.org/data/"><i
+                            class="fa-solid fa-circle-info"></i></a></label>
+                <input type="checkbox" id="installed-toggle">
+            </div>
+        </div>
+    </div>
+    </div>
+
+
+
+
+
+
+    </div>
+    <script>
+        var scaleFactor = 1
+        const DEFAULT_VALUES = {
+            correction: 0.8,
+            efficiency: 0.8,
+            embodied: 1,
+            growth: 1,
+            peak: 50, // W/m2
+            overbuild: 5,
+            proportion: 1,
+            availability: 0.95,
+        };
+
+        function resetInput(inputId) {
+            const defaultValue = DEFAULT_VALUES[inputId];
+            document.getElementById(inputId).value = defaultValue; // Clear the input value
+            addCountries()
+        }
+
+        function calculateDemand(P) {
+            var G = parseFloat(document.getElementById("growth").value)
+            var S = parseFloat(document.getElementById("proportion").value)
+            var R = parseFloat(document.getElementById("efficiency").value)
+            var O = parseFloat(document.getElementById("overbuild").value)
+            var D = parseFloat(document.getElementById("correction").value)
+            return P * D * G * S * R * O
+        }
+
+        function calculateSupply(C_f) {
+            var C = parseFloat(document.getElementById("peak").value)
+            var E = parseFloat(document.getElementById("embodied").value)
+            var A = parseFloat(document.getElementById("availability").value)
+            return C_f * C * E *A
+        }
+
+        function calculateArea(P, C_f) {
+            demand = calculateDemand(P)
+            supply = calculateSupply(C_f)
+            return scaleFactor * demand / supply
+        }
+
+        function calculateRadius(P, C_f) {
+            A = calculateArea(P, C_f)
+            radius = Math.sqrt(A / Math.PI)
+            return radius
+        }
+
+
+        function addCountries() {
+            for (var i = 0; i < jsonObject.length; i++) {
+                if (jsonObject[i]["solar_circle"] !== undefined) {
+                    let solar_circle = jsonObject[i]["solar_circle"]
+                    let P = jsonObject[i]["primary_w"]
+                    let C_f = jsonObject[i]["capacity_factor"]
+                    solar_radius = calculateRadius(P, C_f)
+                    solar_area = calculateArea(P, C_f)
+                    solar_circle.setRadius(solar_radius)
+                    key = solar_circle.options.key
+                    country_area = jsonObject[i]["country_area_m2"]
+                    solar_circle.bindPopup(`
+                        <h3>Required Solar Farm Area</h3>
+                        ${jsonObject[key]["Country"]}<br>
+                        ${(solar_area / 1e6).toFixed(1)} km<sup>2</sup><br> 
+                        ${(100 * solar_area / country_area).toFixed(1)}% of Land Mass<br>
+                        ${(2 * solar_radius / 1000).toFixed(1)} km diameter
+                        `)
+                }
+            }
+
+        }
+
+        document.getElementById('installed-toggle').addEventListener('click', function () {
+            if (this.checked) {
+                installedGroup.addTo(mymap);
+            } else {
+                installedGroup.remove();
+            }
+        });
+
+        document.getElementById('isa-toggle').addEventListener('click', function () {
+            if (this.checked) {
+                isaGroup.addTo(mymap);
+            } else {
+                isaGroup.remove();
+            }
+        });
+
+        document.getElementById('rural-toggle').addEventListener('click', function () {
+            if (this.checked) {
+                ruralGroup.addTo(mymap);
+            } else {
+                ruralGroup.remove();
+            }
+
+        });
+        document.getElementById('urban-toggle').addEventListener('click', function () {
+            if (this.checked) {
+                urbanGroup.addTo(mymap);
+            } else {
+                urbanGroup.remove();
+            }
+        });
+        document.getElementById('forest-toggle').addEventListener('click', function () {
+            if (this.checked) {
+                forestGroup.addTo(mymap);
+            } else {
+                forestGroup.remove();
+            }
+        });
+
+        document.getElementById('agri-toggle').addEventListener('click', function () {
+            if (this.checked) {
+                agriGroup.addTo(mymap);
+            } else {
+                agriGroup.remove();
+            }
+        });
+
+        document.getElementById('pv-toggle').addEventListener('click', function () {
+            if (this.checked) {
+                scaleFactor = 1 / 3
+                addCountries();
+            } else {
+                scaleFactor = 1
+                addCountries();
+            }
+        });
+
+
+
+
+
+
+        // When the user clicks on the dropdown button, toggle the display of the dropdown content
+        function dropdown(button) {
+            var content = button.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        }
+
+        function isNonZeroNumber(x) {
+            if (x !== null && x !== 0 && typeof x === 'number' && !isNaN(x) && isFinite(x)) {
+                return true
+            }
+            else {
+                return false
+            }
+        }
+
+
+
+
+
+        var mymap;
+        function addMap() {
+            for (let inputId in DEFAULT_VALUES) {
+                const defaultValue = DEFAULT_VALUES[inputId];
+                document.getElementById(inputId).value = defaultValue;
+            }
+
+            mymap = L.map('mapid', { zoomControl: false }).setView([51.505, -0.09], 5);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(mymap)
+            isaGroup = L.layerGroup().addTo(mymap);
+            ruralGroup = L.layerGroup().addTo(mymap);
+            urbanGroup = L.layerGroup().addTo(mymap);
+            agriGroup = L.layerGroup().addTo(mymap);
+            forestGroup = L.layerGroup().addTo(mymap);
+            solarGroup = L.layerGroup().addTo(mymap);
+            installedGroup = L.layerGroup().addTo(mymap);
+        }
+
+        let jsonObject = {};
+        var isaGroup
+        function addInitialCircles() {
+            fetch('/notebooks/bp_solargis.json')
+                .then(response => response.json())
+                .then(data => {
+                    jsonObject = data;
+                    console.log(jsonObject); // Just to verify
+
+                    // add the initial solar circles
+                    for (var i = 0; i < jsonObject.length; i++) {
+                        let lat = jsonObject[i]["lat"]
+                        let lon = jsonObject[i]["lon"]
+                        let area = jsonObject[i]["country_area_m2"]
+
+                        let agri_m2 = jsonObject[i]["agri_m2"]
+                        if (isNonZeroNumber(agri_m2)) {
+                            let agri_radius = Math.sqrt(agri_m2 / Math.PI)
+                            let agri_percent = 100 * agri_m2 / area
+                            let agri_circle = L.circle([lat, lon], agri_radius, {
+                                color: 'brown',
+                                fillColor: 'brown',
+                                fillOpacity: 0.5,
+                                weight: 0,
+                                key: i,
+                            }).addTo(mymap).bindPopup(`
+                            <h3>Agricultural Area</h3>
+                            ${jsonObject[i]["Country"]}<br>
+                            ${jsonObject[i]["agri_km2"]} km<sup>2</sup><br> 
+                            ${(100 * agri_m2 / area).toFixed(1)}% of Land Mass<br>
+                            ${(2 * agri_radius / 1000).toFixed(1)} km diameter`);
+                            agriGroup.addLayer(agri_circle);
+                        }
+
+
+                        let forest_m2 = jsonObject[i]["forest_m2"]
+                        if (isNonZeroNumber(forest_m2)) {
+                            let forest_radius = Math.sqrt(forest_m2 / Math.PI)
+                            let forest_percent = 100 * forest_m2 / area
+                            let forest_circle = L.circle([lat, lon], forest_radius, {
+                                color: 'green',
+                                fillColor: 'green',
+                                fillOpacity: 0.5,
+                                weight: 0,
+                                key: i,
+                            }).addTo(mymap).bindPopup(`
+                        <h3>Forest Area</h3>
+                        ${jsonObject[i]["Country"]}<br>
+                        ${jsonObject[i]["forest_km2"]} km<sup>2</sup><br> 
+                        ${(100 * forest_m2 / area).toFixed(1)}% of Land Mass<br>
+                        ${(2 * forest_radius / 1000).toFixed(1)} km diameter`);
+                            forest_circle.remove()
+                            forestGroup.addLayer(forest_circle);
+                        }
+
+
+                        let rural_m2 = jsonObject[i]["rural_m2"]
+                        if (rural_m2 != null && !isNaN(rural_m2)) {
+                            let rural_radius = Math.sqrt(rural_m2 / Math.PI)
+                            let rural_circle = L.circle([lat, lon], rural_radius, {
+                                color: 'purple',
+                                fillColor: 'purple',
+                                fillOpacity: 0.5,
+                                weight: 0,
+                                key: i,
+                            }).addTo(mymap).bindPopup(`
+                        <h3>Rural Area</h3>
+                        ${jsonObject[i]["Country"]}<br>
+                        ${jsonObject[i]["rural_km2"]} km<sup>2</sup><br> 
+                        ${(100 * rural_m2 / area).toFixed(1)}% of Land Mass<br>
+                        ${(2 * rural_radius / 1000).toFixed(1)} km diameter
+                        `);
+                            rural_circle.remove()
+                            ruralGroup.addLayer(rural_circle);
+                        }
+
+                        let urban_m2 = jsonObject[i]["urban_m2"]
+                        if (isNonZeroNumber(urban_m2)) {
+                            let urban_radius = Math.sqrt(urban_m2 / Math.PI)
+                            let urban_percent = 100 * urban_m2 / area
+                            let urban_circle = L.circle([lat, lon], urban_radius, {
+                                color: 'blue',
+                                fillColor: 'blue',
+                                fillOpacity: 0.5,
+                                weight: 0,
+                                key: i,
+                            }).addTo(mymap).bindPopup(`
+                        <h3>Urban Area</h3>
+                        ${jsonObject[i]["Country"]}<br>
+                        ${jsonObject[i]["urban_km2"]} km<sup>2</sup><br> 
+                        ${(100 * urban_m2 / area).toFixed(1)}% of Land Mass<br>
+                        ${(2 * urban_radius / 1000).toFixed(1)} km diameter
+                        `);
+                            urban_circle.remove()
+                            urbanGroup.addLayer(urban_circle);
+                        }
+
+                        let P = jsonObject[i]["primary_w"]
+                        let C_f = jsonObject[i]["capacity_factor"]
+                        let solar_radius = calculateRadius(P, C_f);
+                        let solar_area = calculateArea(P, C_f)
+                        if (isNonZeroNumber(solar_radius)) {
+                            let solarPercent = 100 * calculateArea(P, C_f) / area
+                            let solar_circle = L.circle([lat, lon], solar_radius, {
+                                color: 'yellow',
+                                fillColor: 'yellow',
+                                fillOpacity: 0.5,
+                                weight: 2,
+                                key: i,
+                            }).addTo(mymap).bindPopup(`
+                        <h3>Required Solar Farm Area</h3>
+                        ${jsonObject[i]["Country"]}<br>
+                        ${(solar_area / 1e6).toFixed(1)} km<sup>2</sup><br> 
+                        ${(100 * solar_area / area).toFixed(1)}% of Land Mass<br>
+                        ${(2 * solar_radius / 1000).toFixed(1)} km diameter
+                        `);
+                            jsonObject[i]["solar_circle"] = solar_circle;
+                            solarGroup.addLayer(solar_circle)
+                        }
+
+                        let isa_m2 = jsonObject[i]["isa_m2"]
+                        if (isNonZeroNumber(isa_m2)) {
+                            let isa_radius = Math.sqrt(isa_m2 / Math.PI)
+                            let isa_percent = 100 * isa_m2 / area
+                            let isa_circle = L.circle([lat, lon], isa_radius, {
+                                color: 'blue',
+                                fillColor: 'blue',
+                                fillOpacity: 0.5,
+                                weight: 0,
+                                key: i,
+                            }).addTo(mymap).bindPopup(`
+                        <h3>isa Area</h3>
+                        ${jsonObject[i]["Country"]}<br>
+                        ${jsonObject[i]["isa_km2"]} km<sup>2</sup><br> 
+                        ${(100 * isa_m2 / area).toFixed(1)}% of Land Mass<br>
+                        ${(2 * isa_radius / 1000).toFixed(1)} km diameter
+                        `);
+                            isa_circle.remove()
+                            isaGroup.addLayer(isa_circle);
+                        }
+
+                        let installed_MW = jsonObject[i]["capacity_MW"]
+                        if (isNonZeroNumber(installed_MW)) {
+                            supply = calculateSupply(C_f)
+                            installed_m2 = installed_MW *1e6 /  parseFloat(document.getElementById("peak").value)
+
+                            let installed_radius = Math.sqrt(installed_m2 / Math.PI)
+                            let installed_percent = 100 * installed_m2 / area
+                            let installed_circle = L.circle([lat, lon], installed_radius, {
+                                // color: 'grey',
+                                fillColor: 'pink',
+                                fillOpacity: 0.85,
+                                weight: 0,
+                                key: i,
+                            }).addTo(mymap).bindPopup(`
+                        <h3>installed Area</h3>
+                        ${jsonObject[i]["Country"]}<br>
+                        ${(installed_m2 / 1e6).toFixed(0)} km<sup>2</sup><br> 
+                        ${(100 * installed_m2 / area).toFixed(1)}% of Land Mass<br>
+                        ${(2 * installed_radius / 1000).toFixed(1)} km diameter
+                        `);
+                            installed_circle.remove()
+                            installedGroup.addLayer(installed_circle);
+                        }
+                    }
+                    console.log(jsonObject); // Just to verify
+                    isaGroup.remove()
+                    urbanGroup.remove()
+                    ruralGroup.remove()
+                    forestGroup.remove()
+                    agriGroup.remove()
+                    installedGroup.remove()
+                })
+                .catch(error => console.error('Error:', error));
+
+
+        }
+        window.onload = function () {
+            addMap()
+            addInitialCircles()
+        }
+
+    </script>
+</body>
+
+</html>
