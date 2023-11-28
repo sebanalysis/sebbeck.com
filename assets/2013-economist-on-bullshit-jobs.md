@@ -1,6 +1,6 @@
-# On "bullshit jobs"
+## On "bullshit jobs"
 
-## Understanding seemingly meaningless work
+### Understanding seemingly meaningless work
 
 ANTHROPOLOGIST David Graeber has written an [amusing essay](http://www.strikemag.org/bullshit-jobs/) on the nature of work in a modern economy, which seems to involve lots of people doing meaningless tasks they hate:
 
