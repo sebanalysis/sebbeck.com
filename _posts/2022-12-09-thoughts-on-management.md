@@ -56,8 +56,6 @@ When it has occurred to me, I have tried to note down the following practices:
 - You need a physical office for inducting new employees. Those with longer running relationships still need regular meet-ups.
 - Hybrid work strategy is best, with perhaps an informal yearly quota of 10-20% of time in office.
 
-## 
-
 ## Removing Hearsay
 
 Organisation tend to transfer information through human-packaged snippets in the form of emails, reports and presentations. Information is always therefore cherry-picked, or deliberately or accidentally modified. The data I am reffering to is status of contracts, hours allocated, work progress, documentation sign-off, recent decisions, bid progress, investment decisions.
