@@ -5,7 +5,7 @@ This is a very sensitive subject, but the truth matters. It matters that Muhamme
 
 ### Quran
 
-I used the Hilali translation, which is more descriptive. All the translations are available at https://tanzil.net/trans/ 
+I used the Hilali translation, which is more descriptive. All the translations are available at [https://tanzil.net/trans/](https://tanzil.net/trans/)
 
 If you don't want to download them all manually, you can download them all with:
 
@@ -14,17 +14,17 @@ If you don't want to download them all manually, you can download them all with:
 wget --recursive --no-parent --no-clobber --html-extension --convert-links --domains tanzil.net --no-directories --accept 'en.*' --reject '1.html' --directory-prefix=quran https://tanzil.net/trans/
 ```
 
-I have a zip of all the files and offending verses on GitHub: https://github.com/sebanalysis/quran
+I have a zip of all the files and offending verses on GitHub: [https://github.com/sebanalysis/quran](https://github.com/sebanalysis/quran)
 
 The offending verses in the Quran don't single out the Jews, but they do mention them at least once specifically, along with Christians, as people not to take as friends and people who you must fight. Otherwise, they are referred to as "people of the scripture".
 
->3|118| O you who believe! Take not as (your) Bitanah (advisors, consultants, protectors, helpers, friends, etc.) those outside your religion (pagans, __Jews__, Christians, and hypocrites) since they will not fail to do their best to corrupt you. They desire to harm you severely. Hatred has already appeared from their mouths, but what their breasts conceal is far worse. Indeed We have made plain to you the Ayat (proofs, evidences, verses) if you understand.
+>3|118| O you who believe! Take not as (your) Bitanah (advisors, consultants, protectors, helpers, friends, etc.) t__hose outside your religion__ (pagans, Jews, Christians, and hypocrites) since they will not fail to do their best to corrupt you. They desire to harm you severely. Hatred has already appeared from their mouths, but what their breasts conceal is far worse. Indeed We have made plain to you the Ayat (proofs, evidences, verses) if you understand.
 
->5|51| O you who believe! Take not the __Jews__ and the Christians as Auliya' (friends, protectors, helpers, etc.), they are but Auliya' to one another. And if any amongst you takes them as Auliya', then surely he is one of them. Verily, Allah guides not those people who are the Zalimun (polytheists and wrong-doers and unjust).
+>5|51| O you who believe! Take not the __Jews and the Christians__ as Auliya' (friends, protectors, helpers, etc.), they are but Auliya' to one another. And if any amongst you takes them as Auliya', then surely he is one of them. Verily, Allah guides not those people who are the Zalimun (polytheists and wrong-doers and unjust).
 
->5|57| O you who believe! Take not for Auliya' (protectors and helpers) those who take your religion for a mockery and fun from amongst those who received the Scripture (__Jews__ and Christians) before you, nor from among the disbelievers; and fear Allah if you indeed are true believers.
+>5|57| O you who believe! Take not for Auliya' (protectors and helpers) those who take your religion for a mockery and fun from amongst __those who received the Scripture__ (Jews and Christians) before you, nor from among __the disbelievers__; and fear Allah if you indeed are true believers.
 
->9|29| Fight against those who (1) believe not in Allah, (2) nor in the Last Day, (3) nor forbid that which has been forbidden by Allah and His Messenger (4) and those who acknowledge not the religion of truth (i.e. Islam) among the people of the Scripture (__Jews__ and Christians), until they pay the Jizyah with willing submission, and feel themselves subdued.
+>9|29| Fight against those who (1) believe not in Allah, (2) nor in the Last Day, (3) nor forbid that which has been forbidden by Allah and His Messenger (4) and those who acknowledge not the religion of truth (i.e. Islam) among __the people of the Scripture__ (Jews and Christians), until they pay the Jizyah with willing submission, and feel themselves subdued.
 
 But the message to fight any non-believers in Allah's cause, in general, is very strong throughout. I have included a chronological list of such verses. The scriptural message is clear: 
 
@@ -34,7 +34,7 @@ But the message to fight any non-believers in Allah's cause, in general, is very
 
 Suicide bombing is encouraged here: 
 
-> 4|74| Let those (believers) who sell the life of this world for the Hereafter fight in the Cause of Allah, and whoso fights in the Cause of Allah, and is killed or gets victory, We shall bestow on him a great reward.
+> 4|74| Let those (believers) who __sell the life of this world for the Hereafter fight in the Cause of Allah__, and whoso fights in the Cause of Allah, and __is killed or gets victory__, We shall bestow on him a __great reward__.
 
 > 4|75| And what is wrong with you that you __fight__ not in the Cause of Allah, and for those weak, ill-treated and oppressed among men, women, and children, whose cry is: "Our Lord! Rescue us from this town whose people are oppressors; and raise for us from You one who will protect, and raise for us from You one who will help."
 
@@ -44,7 +44,7 @@ Suicide bombing is encouraged here:
 
 Killing those who leave the religion is explicitly stated in the Quran: 
 
-> 4|89| They wish that you reject Faith, as they have rejected (Faith), and thus that you all become equal (like one another). So take not Auliya' (protectors or friends) from them, till they emigrate in the Way of Allah (to Muhammad SAW). __But if they turn back (from Islam), take (hold) of them and kill them wherever you find them__, and take neither Auliya' (protectors or friends) nor helpers from them.
+> 4|89| They wish that you reject Faith, as __they have rejected (Faith)__, and thus that you all become equal (like one another). So take not Auliya' (protectors or friends) from them, till they emigrate in the Way of Allah (to Muhammad SAW). __But if they turn back (from Islam), take (hold) of them and kill them wherever you find them__, and take neither Auliya' (protectors or friends) nor helpers from them.
 
 More fighting:
 
@@ -54,8 +54,10 @@ More fighting:
 
 This section is particularly vivid when it specifies beheading as the punishment for those that disbelieve: 
 
-> 8|12| (Remember) when your Lord inspired the angels, "Verily, I am with you, so keep firm those who have believed. I will cast terror into the hearts of those who have disbelieved, so __strike them over the necks__, and smite over all their fingers and toes."
+> 8|12| (Remember) when your Lord inspired the angels, "Verily, I am with you, so keep firm those who have believed. I will cast terror into the hearts of __those who have disbelieved, so strike them over the necks__, and smite over all their fingers and toes."
+
 > 8|13| This is because they defied and disobeyed Allah and His Messenger. And whoever defies and disobeys Allah and His Messenger, then verily, Allah is Severe in punishment.
+
 > 8|14| This is the torment, so taste it, and surely for the disbelievers is the torment of the Fire.
 
 In fact, unlike in the Christian bible, where the later verses tend to abrogate the earlier ones, the later verses in the Quran tend to be even more extreme. 
@@ -70,7 +72,7 @@ I'm not clear why the translator has given examples of modern machinery when tal
 
 > 8|65|O Prophet (Muhammad SAW)!__ Urge the believers to fight__. If there are twenty steadfast persons amongst you, they will overcome two hundred, and if there be a hundred steadfast persons they will overcome a thousand of those who disbelieve, because they (the disbelievers) are people who do not understand.
 
-More commands to fight:
+More commands to fight and kill:
 
 > 9|29| __Fight__ against those who (1) believe not in Allah, (2) nor in the Last Day, (3) nor forbid that which has been forbidden by Allah and His Messenger (4) and those who acknowledge not the religion of truth (i.e. Islam) among the people of the Scripture (Jews and Christians), until they pay the Jizyah with willing submission, and feel themselves subdued.
 
@@ -78,9 +80,9 @@ More commands to fight:
 
 > 9|123|O you who believe! __Fight__ those of the disbelievers who are close to you, and let them find harshness in you, and know that Allah is with those who are the Al-Muttaqun (the pious - see V. 2:2).
 
-Another command to behead and keep fighting forever:
+Another command to behead and keep fighting forever, including beheading and enslaving of non-believers:
 
-> 47|4| So, when you meet (in fight Jihad in Allah's Cause), those who disbelieve smite at their necks till when you have killed and wounded many of them, then bind a bond firmly (on them, i.e. take them as captives). Thereafter (is the time) either for generosity (i.e. free them without ransom), or ransom (according to what benefits Islam), until the war lays down its burden. Thus \[you are ordered by Allah to continue in carrying out Jihad against the disbelievers till they embrace Islam (i.e. are saved from the punishment in the Hell-fire) or at least come under your protection\], but if it had been Allah's Will, He Himself could certainly have punished them (without you). But (He lets you fight), in order to test you, some with others. But those who are killed in the Way of Allah, He will never let their deeds be lost,
+> 47|4| So, when you meet (in fight Jihad in Allah's Cause), __those who disbelieve smite at their necks till when you have killed and wounded many of them__, then bind a bond firmly (on them, i.e. take them as captives). Thereafter (is the time) either for generosity (i.e. free them without ransom), or ransom (according to what benefits Islam), until the war lays down its burden. Thus \[you are ordered by Allah to continue in carrying out Jihad against the disbelievers till they embrace Islam (i.e. are saved from the punishment in the Hell-fire) or at least come under your protection\], but if it had been Allah's Will, He Himself could certainly have punished them (without you). But (He lets you fight), in order to test you, some with others. But those who are killed in the Way of Allah, He will never let their deeds be lost,
 
 
 ### Sunni Hadith
@@ -97,7 +99,7 @@ The easiest way to get it all in searchable text form is by using bash:
 wget --recursive --no-parent --no-clobber --html-extension --convert-links --domains www.iium.edu.my --no-directories https://www.iium.edu.my/deed/hadith/
 ```
 
-You can download them all here:  https://github.com/sebanalysis/hadith
+You can download them all here:  [https://github.com/sebanalysis/hadith](https://github.com/sebanalysis/hadith)
 
 There are some extreme sayings, notably, the one about the rock of the earth calling out to Muslims to indicate the location of Jews in order to murder them. It appears many times in different versions of the Hadith.
 
@@ -105,7 +107,7 @@ There are some extreme sayings, notably, the one about the rock of the earth cal
 
 The worst part is probably: 
 
-> Volume 4, Book 56, Number 791: Narrated 'Abdullah bin 'Umar: I heard Allah's Apostle saying, "The Jews will fight with you, and you will be given victory over them so that a stone will say, 'O Muslim! There is a Jew behind me; kill him!' "
+> Volume 4, Book 56, Number 791: Narrated 'Abdullah bin 'Umar: I heard Allah's Apostle saying, "The Jews will fight with you, and you will be given victory over them so that __a stone will say, 'O Muslim! There is a Jew behind me; kill him!'__ "
 
 Elsewhere, the towns people are glibly found be be discussing the genocide of the Jews with no objections: 
 
@@ -113,32 +115,32 @@ Elsewhere, the towns people are glibly found be be discussing the genocide of th
 
 Here, Mohammed's  last words, expressing disapproval of Jews and Christians building places of worship over the graves of their prophets.
 
-> Volume 1, Book 8, Number 427: Narrated 'Aisha and 'Abdullah bin 'Abbas. When the last moment of the life of Allah's Apostle came he started putting his 'Khamisa' on his face and when he felt hot and short of breath he took it off his face and said, "May Allah curse the Jews and Christians for they built the places of worship at the graves of their Prophets." The Prophet was warning (Muslims) of what those had done.
+> Volume 1, Book 8, Number 427: Narrated 'Aisha and 'Abdullah bin 'Abbas. When the last moment of the life of Allah's Apostle came he started putting his 'Khamisa' on his face and when he felt hot and short of breath he took it off his face and said, __"May Allah curse the Jews and Christians for they built the places of worship at the graves of their Prophets."__ The Prophet was warning (Muslims) of what those had done.
 
 
 ### Sahih Muslim Hadith
 
-This notion of Muhammed saying something to the effect of the earth crying out in order to help Muslims kill Jews is repeated by no less than 6 witnesses in the Sahih Muslim hadith too:
+This notion of Muhammed saying something to the effect of the earth crying out in order to help Muslims kill Jews is repeated by no less than 6 witnesses in the Sahih Muslim Hadith too. The repetitition is not a mistake on my part. Perhaps an issue in the translation?
 
-> Book 41, Number 6981: Ibn 'Umar reported Allah's Messenger (may peace be upon him) as saying: You will fight against the Jews and you will kill them until even a stone would say:  Come here, Muslim, there is a Jew (hiding himself behind me); kill him.
+> [Book 41](https://github.com/sebanalysis/hadith/blob/master/hadith/041_smt.html), Number 6981: Ibn 'Umar reported Allah's Messenger (may peace be upon him) as saying: You will fight against the Jews and you will kill them until even __a stone would say:  Come here, Muslim, there is a Jew (hiding himself behind me); kill him__.
 
-> Book 41, Number 6982: Ubaidullah has reported this hadith with this chain of transmitters (and the Words are): "There is a Jew behind me."
+> Book 41, Number 6982: Ubaidullah has reported this Hadith with this chain of transmitters (and the Words are): __"There is a Jew behind me."__
 
-> Book 41, Number 6983: Abdullah b. 'Umar reported Allah's Messenger (may peace be upon him) as saying: You and the Jews would fight against one another until a stone would say: Muslim, here is a Jew behind me; come and kill him.
+> Book 41, Number 6983: Abdullah b. 'Umar reported Allah's Messenger (may peace be upon him) as saying: You and the Jews would fight against one another until __a stone would say: Muslim, here is a Jew behind me; come and kill him__.
   
-> Book 41, Number 6984: Abdullah b. 'Umar reported that Allah's Messenger (may peace be upon him) said: The Jews will fight against you and you will gain victory over them until the stone would say: Muslim, here is a Jew behind me; kill him.
+> Book 41, Number 6984: Abdullah b. 'Umar reported that Allah's Messenger (may peace be upon him) said: The Jews will fight against you and you will gain victory over them until __the stone would say: Muslim, here is a Jew behind me; kill him__.
 
-> Book 41, Number 6985: Abu Huraira reported Allah's Messenger (may peace be upon him) as saying: The last hour would not come unless the Muslims will fight against the Jews and the Muslims would kill them until the Jews would hide themselves behind a stone or a tree and a stone or a tree would say: Muslim, or the servant of Allah, there is a Jew behind me; come and kill him; but the tree Gharqad would not say, for it is the tree of the Jews.
+> Book 41, Number 6985: Abu Huraira reported Allah's Messenger (may peace be upon him) as saying: The last hour would not come unless the Muslims will fight against the Jews and the Muslims would kill them until the Jews would hide themselves behind__ a stone or a tree and a stone or a tree would say: Muslim, or the servant of Allah, there is a Jew behind me; come and kill him__; but the tree Gharqad would not say, for it is the tree of the Jews.
  
-
 ### Ahadith 500
 
 The Adadith 500, is another Hadith, with a shorter list of the top sayings of the Prophet. It also mentions the Jews and Christians: 
 
-> 259\. If someone stockpiles grapes during harvest time and holds them in order to sell to a Jew or Christian or anyone else (even if he be a Muslim) who produces khamr, he will be leaping into the Fire with his eyes open. 
+> 259\. If someone stockpiles grapes during harvest time and holds them in order to sell to a Jew or Christian or anyone else (even if he be a Muslim) who produces khamr, __he will be leaping into the Fire with his eyes open__. 
 
-> 349\. A'isha reported, The Jews came to the Prophet (peace be upon him) and said, "Death overtake you! may Allah curse you and may Allah's wrath descend on you. He (the Prophet) said: "Gently, O A'isha! Be courteous, and keep thyself away from roughness. (Bukhari, Muslim, Mishkat).  
+The Jews or their threats are described as roughness:
 
+> 349\. A'isha reported, The Jews came to the Prophet (peace be upon him) and said, "Death overtake you! may Allah curse you and may Allah's wrath descend on you. He (the Prophet) said: "Gently, O A'isha! Be courteous, and __keep thyself away from roughness__. (Bukhari, Muslim, Mishkat).  
 
 ## Sira 
 
