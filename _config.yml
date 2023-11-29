@@ -7,7 +7,7 @@ github_username: sebanalysis
 theme: minima
 plugins:
   - jekyll-feed
-
+url: https://blog.sebbeck.com/
 permalink: /:name/
 
 minima:
