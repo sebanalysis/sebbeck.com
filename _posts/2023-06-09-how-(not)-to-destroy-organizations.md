@@ -28,11 +28,11 @@ The most striking parts, very reminiscent of modern work culture, are emboldened
 > #### (b) Managers and Supervisors
 > 
 > 1. Demand written orders.
-> 2. "Misunderstand" orders. Ask endless questions or engage in long correspondence about such orders. Quibble over them when you can.
+> 2. “Misunderstand” orders. Ask endless questions or engage in long correspondence about such orders. Quibble over them when you can.
 > 3. Do everything possible to delay the delivery of orders. Even though parts of an order may be ready beforehand, don't deliver it until it is completely ready.
 > 4. Don't order new working materials until your current stocks have been virtually exhausted, so that the slightest delay in filling your order will mean a shutdown.
 > 5. Order high-quality materials which are hard to get. If you don't get them argue about it. Warn that inferior materials will mean inferior work.
-> 6. In making work assignments, always sign out the unimportant jobs first__. See that the important jobs are assigned to inefficient workers__ of poor machines.
+> 6. In making work assignments, always sign out the unimportant jobs first. __See that the important jobs are assigned to inefficient workers__ of poor machines.
 > 7. Insist on perfect work in relatively unimportant products; send back for refinishing those which have the least flaw. Approve other defective parts whose flaws are not visible to the naked eye.
 > 8. Make mistakes in routing so that parts and materials will be sent to the wrong place in the plant.
 > 9. When training new workers, give incomplete or misleading instructions.
@@ -41,7 +41,7 @@ The most striking parts, very reminiscent of modern work culture, are emboldened
 > 12. __Multiply paper work in plausible ways.__
 >     - Start duplicate files.
 > 13. __Multiply the procedures and clearances__ involved in issuing instructions, pay checks, and so on. See that three people have to approve everything where one would do.
-> 14. __Apply all regulations __to the last letter.
+> 14. __Apply all regulations__ to the last letter.
 > 
 > #### (c) Office Workers
 > 
