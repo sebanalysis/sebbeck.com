@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-At the root of so many problems is in the modern world is the fact that people are largely wasting their productive lives doing tasks abstracted from reality, involving no bodily movement and creating no physical product. In many cases, the employee even [asserts when polled](2022-11-11-bullshit-jobs) that their job is lacking any meaning. Physically productive jobs don't pay. Instead, rewards are disproportionately distributed to speculative and rent-seeking industries. Most people have lost their professional dignity.
+At the root of so many problems is in the modern world is the fact that people are largely wasting their productive lives doing tasks abstracted from reality, involving no bodily movement and creating no physical product. In many cases, the employee even [asserts when polled](/2022-11-11-bullshit-jobs) that their job is lacking any meaning. Physically productive jobs don't pay. Instead, rewards are disproportionately distributed to speculative and rent-seeking industries. Most people have lost their professional dignity.
 
 ### Abstract Jobs in the 'Information Sector'
 
@@ -26,7 +26,7 @@ But I think there is a better definition: 'the information sector', one that rep
 
 We are talking about administrators, consultants, clerical and accounting staff, IT professionals. This is the segment of the economy that has grown. In my experience, a large proportional of this time is, people editing information as these move it between different Microsoft Office document formats and discussing it at length in meetings. Note, the 'information sector' is not to be confused with the '[information industry](https://en.wikipedia.org/wiki/Information_industry)' or the '[IT sector](https://en.wikipedia.org/wiki/Information_technology)'.
 
-In 1992, [Robert M. Hayes, presented](http://web.simmons.edu/~chen/nit/NIT%2792/175-hay.htm)  an updated version of Mark Porat's model with data extending to 1990, where information sector had risen to 55%. He clarifies that almost exactly half of this workforce is from Information sector companies, and half are employees from other sectors, whose activity is 'information-oriented'. In Bullshit jobs, Graeber has cleaned-up and digitalized the 1992 graphics. But it is still terrible, so I have jankily coloured it in as below to show unambiguously that it is a stacked line graph:
+In 1992, a UCLA information scientist, [Robert M. Hayes](https://en.wikipedia.org/wiki/Robert_M._Hayes), presented an [updated version of Mark Porat's model](http://web.simmons.edu/~chen/nit/NIT%2792/175-hay.htm) at the [New Information Technology Conference](http://web.simmons.edu/~chen/nit/procnit92.html). He estimated that the information sector had risen to employ 55% of the total workforce of the USA by 1990. He clarifies that almost exactly half of this workforce is from Information sector companies, and half are employees from other sectors, whose activity is 'information-oriented'. In Bullshit jobs, Graeber has cleaned-up and digitalized the 1992 graphics. But it is still terrible, so I have jankily coloured it in as below to show unambiguously that it is a stacked line graph:
 
 ![2022-11-13-masculinity_image_2.png](/assets/2022-11-13-masculinity_image_2.png)
 
