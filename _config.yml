@@ -8,4 +8,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-permalink: /:title/
+permalink: /:name/
+
+minima:
+  base_font: "Cambria"
