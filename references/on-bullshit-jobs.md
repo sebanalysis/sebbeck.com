@@ -1,3 +1,5 @@
+—From [On "bullshit jobs" (economist.com)](https://www.economist.com/free-exchange/2013/08/21/on-bullshit-jobs)
+
 # On "bullshit jobs"
 
 ## Understanding seemingly meaningless work

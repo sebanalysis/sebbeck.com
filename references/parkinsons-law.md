@@ -1,3 +1,4 @@
+— From [Parkinson’s Law (economist.com)](https://www.economist.com/news/1955/11/19/parkinsons-law), Accessed November, 2023
 
 # Parkinson's Law
 
@@ -76,4 +77,3 @@ The discovery of this formula and of the general principles upon which it is bas
 
 _* Why? Why not?—Editor_
 
-— From [Parkinson’s Law (economist.com)](https://www.economist.com/news/1955/11/19/parkinsons-law), Accessed November, 2023
