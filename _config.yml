@@ -10,5 +10,3 @@ plugins:
 url: https://blog.sebbeck.com/
 permalink: /:name/
 
-minima:
-  base_font: "Cambria"

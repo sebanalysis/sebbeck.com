@@ -6,7 +6,7 @@ A large minority of people across the western world believe their jobs are total
 
 In the UK, the question was :
 
->'Is your job making a meaningful contribution to the world'
+> Is your job making a meaningful contribution to the world?
 >
 >— [YouGov, 2015](https://yougov.co.uk/topics/lifestyle/articles-reports/2015/08/12/british-jobs-meaningless) 
 
@@ -14,15 +14,15 @@ The response was: __Is not': 37%__ with 'Is': at 50% and 'Don't know': 13%
 
 In the US, the question was:
 
->'Do you think that your job is or is not making a meaningful contribution to the world?'
+> Do you think that your job is or is not making a meaningful contribution to the world?
 >
 >— [YouGov, 2015](https://today.yougov.com/topics/lifestyle/articles-reports/2015/08/14/one-quarter-americans-think-their-jobs-are-meaning) 
 
 The response was: __'Is not': 24%__, with 'Is': 63%.
 
-In the Netherlands, the question was URL for the original poll broken (“[Vier op tien werknemers noemt werk zinloos](http://overhetnieuwewerken.nl/vier-op-tien-werknemers-noemt-werk-zinloos/) , accessed July 10, 2017"), but it is referenced in [this 2018 article](https://www.volkskrant.nl/columns-opinie/er-is-een-ongelooflijke-hoeveelheid-dode-tijd-bijgekomen~bcc09392/?referrer=https%3A%2F%2Fnews.ycombinator.com%2F). It was apparently conducted by Schouten & Nelissen on 1,900 Dutch people after 2015 and claims the __40% of respondents replied that their job is meaningless__. Although i'm unclear on the original question and response options.
+In the Netherlands, the original poll URL is broken (“[Vier op tien werknemers noemt werk zinloos](http://overhetnieuwewerken.nl/vier-op-tien-werknemers-noemt-werk-zinloos/) , accessed July 10, 2017"), but it is referenced in [this 2018 article](https://www.volkskrant.nl/columns-opinie/er-is-een-ongelooflijke-hoeveelheid-dode-tijd-bijgekomen~bcc09392/?referrer=https%3A%2F%2Fnews.ycombinator.com%2F). The poll was apparently conducted by 'Schouten & Nelissen' on 1,900 Dutch people after 2015 and claims the __40% of respondents replied that their job is meaningless__.
 
-All polls are difficult to trust but this one particularly so because it is sensitive to the exact phrasing of the question. Should it focus on 'meaning', 'value', 'utility', 'importance'. All of these are responsive to the individual's prejudices and their self-image, and a comprehensive definition of meaningful contribution is not provided. Secondly, this question is an existential one as work gives structure and meaning to one's life. It is not trivial to attest that your life's work was wasted. Individuals are best placed to understand the value of their own role, but they are perhaps the most likely to defend it's importance, for the sake of their own ego and self-worth. But this means that then an individual claims his job is useless, we should believe him.
+All polls are difficult to trust but this one particularly so because it is sensitive to the exact phrasing of the question. Should it focus on 'meaning', 'value', 'utility', 'importance'. All of these are responsive to the individual's prejudices and their self-image, and a comprehensive definition of meaningful contribution is not provided. Secondly, this question is an existential one as work gives structure and meaning to one's life. It is not trivial to attest that your life's work was wasted. Individuals are best placed to understand the value of their own role, but they are perhaps the most likely to defend its importance, for the sake of their own ego and self-worth. But this means that then an individual claims his job is useless, we should believe him.
 
 ## Types of Bullshit Jobs
 
@@ -32,8 +32,8 @@ David Graeber, in _Bullshit Jobs,_ set about codifying the sources and types of 
 
 Jobs that only serve to improve someone or something's reputation, image or perceived value. A product of vanity. Throughout recorded history, rich and powerful men and women have tended to surround themselves with servants, clients, sycophants, and minions of one sort or another. 
 - Doormen pressing the open-button, allowing residents to enter their building.
-- South Africa - car 'guards'
-- Brazil - Lift operators
+- South Africa: car 'guards'
+- Brazil: Lift operators
 - Receptionists in companies that just need to be seen to have a receptionist or P.A.s where there are no calls to take. 
 - Cold caller on behalf of a broker offering free research material, to make the broker seem busy.
 - Portfolio Coordinator, without a real job description, actually functions as PA to the director and serves to make the rest of the team feel more important.
@@ -50,7 +50,7 @@ Jobs that exist in adversarial situations due to the Prisoner's dilemma, destruc
 
 ### Duct tapers 
 
-Jobs that exist to treat symptoms rather than the root cause of a problem. Shortsighted, temporary remediation. Lack of long term strategy. 
+Jobs that exist to treat symptoms rather than the root cause of a problem. Short-sighted, temporary remediation. Lack of long term strategy. 
 
 - IT people who spend all their time repairing out of date systems, 
 - Programmers who duct-tape open source together rather than working directly on open source.
@@ -58,7 +58,7 @@ Jobs that exist to treat symptoms rather than the root cause of a problem. Short
 
 ### Box tickers
 
-Jobs dominated by compliance, cover-your-arse or self-justifying paperwork that exists only because the value in the paperwork, accreditation, or analysis is more important than doing the task itself. Work is appraised via abstracted bureaucratic procedure, not by practical, personally accountable means. All bureaucracies work on this principle: once you introduce formal measures of success, “reality”—for the organization—becomes that which exists on paper, and the human reality that lies behind it is a secondary consideration at best. Value of third party accredited qualifications or approved documentation greater than personal trust. Ass covering, fear of liability, obsession with compliance over competence.
+Jobs dominated by compliance, cover-your-arse or self-justifying paperwork that exists only because the value in the paperwork, accreditation, or analysis is more significant than doing the task itself. Work is appraised via abstracted bureaucratic procedure, not by practical, personally accountable means. All bureaucracies work on this principle: once you introduce formal measures of success, “reality”—for the organization—becomes that which exists on paper, and the human reality that lies behind it is a secondary consideration at best. Value of third party accredited qualifications or approved documentation greater than personal trust. Ass covering, fear of liability, obsession with compliance over competence.
 
 - Auditors such as the big four who consistently fail to notice million or billion dollar holes in the company's finances,
 - Consultants do provide no new meaningful insights who are paid for their brand value to endorse organizational change,  sway board decisions and shift responsibility and risk away from the executives,
@@ -88,7 +88,7 @@ Unnecessary levels of supervision They act as liability buffers or simply becaus
 
 ## Why do they exist in a free-market economy?
 
-While Graeber considers the primary cause of bullshit jobs to be the trends of technological automation removing the need for jobs, combined with the Judeo-Christian foundation of our culture, demanding a full-day's work in order to be perceived as a complete human being. He suggested that without this cultural imperative, humanity would have found a way to distribute the wealth of our technologies more equitably, without need for the theater of trading productivity for cash. I do think this is the root cause. But I disagree that the solution is some universal basic income. I believe the solution is to move more people into caring roles, and embed people into their local community, so work becomes a more human centric, useful and fulfilling pass-time.
+While Graeber considers the primary cause of bullshit jobs to be the trends of technological automation removing the need for jobs, combined with the Judeo-Christian foundation of our culture, demanding a full-day's work in order to be perceived as a complete human being. He suggested that without this cultural imperative, humanity would have found a way to distribute the wealth of our technologies more equitably, without need for the theatre of trading productivity for cash. I do think this is the root cause. But I disagree that the solution is some universal basic income. I believe the solution is to move more people into caring roles, and embed people into their local community, so work becomes a more human centric, useful and fulfilling pass-time.
 
 I have personally curated a number of more proximate reasons for the existence of these jobs:
 
@@ -128,7 +128,7 @@ This means that truths are not communicated effectively. In order to humanize th
 
 ### Salaries pay hours, not outcomes
 
-Paying for someone's time rather than for the completion of a tasks or delivery of value. This is a perverse incentive. Too often, employees function as serfs, being paid to appear busy to their colleges and managers. Managers are often content to incubate their egos through the illusion their underlings are working, even if they are not doing anything useful.
+Paying for someone's time rather than for the completion of a tasks or delivery of value. This is a perverse incentive. Too frequently, employees function as serfs, being paid to appear busy to their colleges and managers. Managers are typically content to incubate their egos through the illusion their underlings are working, even if they are not doing anything useful.
 
 
 ## Tying it together
@@ -139,12 +139,13 @@ A basic axiom of my world view, baked into me from parents and school, clearly f
 
 At the core of our economy lies the truth that it is perceived value that matters, not actual value. All that matters to stock charts and projections and the betting market of investment is belief. Belief that something has value is the route to accruing confidence. It matters not whether that something has any actual value as determined by common sense.
 
-It is not just a case of bullshit vs non-bullshit jobs. Most non-bullshit jobs have a large proportion of bullshit; nurses, doctors, teachers and policemen all complain about the quantity of useless paperwork required. 80% of all paid employment in the information sector in established firms is simply time spent being present, engaging in the theater of work and accumulating 'experience'. There is no way to measure how good someone is in a task, so they use procedures to control what you do and where you do it. The structure of the organization is simply to have a list of CVs living out their full-time work life going through the motions of office life to justify the huge sums of money they charge. The value they deliver is not effectively priced because the existing companies have no real competition due to complicated regulation and professional standards.  The barrier for entry for any challengers is simply too high.
+It is not just a case of bullshit vs non-bullshit jobs. Most non-bullshit jobs have a large proportion of bullshit; nurses, doctors, teachers, and policemen all complain about the quantity of useless paperwork required. 80% of all paid employment in the information sector in established firms is simply time spent being present, engaging in the theatre of work and accumulating 'experience'. There is no way to measure how good someone is in a task, so they use procedures to control what you do and where you do it. The structure of the organization is simply to have a list of CVs living out their full-time work life going through the motions of office life to justify the huge sums of money they charge. The value they deliver is not effectively priced because the existing companies have no real competition due to complicated regulation and professional standards.  The barrier for entry for any challengers is simply too high.
 
 
 How McKinsey can publish this with a straight face, I don't know: 
 
-> ![](assets/Pasted%20image%2020231128191226.png)
+> ![](/assets/Pasted%20image%2020231128191226.png)
+> 
 > — [If we’re so busy, why isn’t anything getting done? | McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/if-were-all-so-busy-why-isnt-anything-getting-done)
 
 
@@ -160,17 +161,17 @@ Shortly after Graeber released his essay, the economist published a rebuttal, wh
 
 The trouble with this is that it is non-falsifiable and responds only to the claim that the _individual_ cannot know the true value of their job. It appeals to the notion that it can't possibly be true, because the implications are too great.
 
-It is also the inverse argument that bullshit sectors have used for decades, their superfluous existence. 'You can't possibly judge become you have to work your whole life in the sector to understand.' Isn't it convenient that those who have most to loose by being judged bullshit are the only ones allowed to have an opinion on it.
+It is also the inverse argument that bullshit sectors have used for decades, their superfluous existence. 'You can't possibly judge become you have to work your whole life in the sector to understand.' Isn't it convenient that those who have most to lose by being judged bullshit are the only ones allowed to have an opinion on it.
 
-Parkinson's law inflates the staffing, the company creates make-work to maintain the illusion of importance and urgency. But these organizations do nonetheless deliver a tangible, a core product. It is just wrapped with layers of bullshit, layers that only the executive and middle-management of the organization can collectively decide the utility-of. But these managers have the most to lose by removing the bullshit. They have worked their whole lives developing a niche competency in this exclusive area, their managerial salary is justified by the people they manage and the executives can't risk breaking the entire company by firing them and hoping for the best. So the bullshit becomes cemented on, hardening over decades.
+Parkinson's law inflates the staffing, the company creates make-work to maintain the illusion of importance and urgency. But these organizations do nonetheless deliver a tangible, a core product. It is just wrapped with layers of bullshit, layers that only the executive and middle-management of the organization can collectively decide the utility-of. But these managers have the most to lose by removing the bullshit. They have worked their whole lives developing a niche competency in this exclusive area, their managerial salary is justified by the people they manage, and the executives can't risk breaking the entire company by firing them and hoping for the best. So the bullshit becomes cemented on, hardening over decades.
 
 Even if it were true, that the individual can't judge his own value in a computer repair business or auditor or engineering firm, it is self-evident that the economy is full of bullshit. The machine is not well optimized. It was not designed by an engineer to run according to the laws of physics, but by lawyers, to run by the law itself.
 
-## Rare Examples of People Publicising the Truth
+## Rare Examples of People Publicizing the Truth
 
 A real person, with a real [LinkedIn account](https://www.linkedin.com/in/emaggiori/) posted a blog post [I’ve been employed in tech for years, but I’ve almost never worked – Emmanuel Maggiori (emaggiori.com)](https://emaggiori.com/employed-in-tech-for-years-but-almost-never-worked/).
 
-![](assets/Pasted%20image%2020231128190724.png)
+![](/assets/Pasted%20image%2020231128190724.png)
 
 
 
