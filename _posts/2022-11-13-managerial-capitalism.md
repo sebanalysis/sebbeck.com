@@ -33,9 +33,19 @@ Which equilibrium state would you rather live in:
 - a bloated and inefficient government which wrenches raw cash via tax from oligopolies to give as pittance to the masses who are largely engaged in make-work jobs. No meaningful innovation. Run by managers who are trained in glorified etiquette classes and networking experiences MBA's to advance their salary capture adventure via their stakeholder management. Regulation is constantly added.
 - a targeted and efficient government focussing on key industries with a flourishing ecosystem of new companies are constantly challenging the dogma of the old firms and redistributing wealth through organic, durable means. Built on innovation and one has run by builders and pioneers who are wrought and calibrated by the real world, and one is. Regulation is being limited and rationally applied.
 
-> There’s the individual dimension of capitalism: iconoclastic, heroic, entrepreneurial, risk-tolerant.<br><br>And then there is the bureaucratic dimension: corporatist, conformist, HRified, risk-averse.<br><br>Woke Capital is the latter. They don’t like capitalism, they like the worst parts.
->  That might be obvious, but I had to put my finger on it. Why did these people who purported to hate capitalism become omnipresent at big companies?<br><br>Partly hypocrisy, yes. But also…these people wanted reward, not risk. Power, not purpose. And a big company, not a small startup.
->  All the parts the founder likes about capitalism — the creativity, the lack of structure, the adventure, and the motivation provided by the yawning chasm of failure below — is what repels the conformist.<br><br>They hate economic risk as viscerally as the founder loves it.</p>&mdash; Balaji (@balajis) <a href="https://twitter.com/balajis/status/1494958669842497538?ref_src=twsrc%5Etfw">February 19, 2022</a>
+> There’s the individual dimension of capitalism: iconoclastic, heroic, entrepreneurial, risk-tolerant.
+> 
+> And then there is the bureaucratic dimension: corporatist, conformist, HRified, risk-averse.
+> 
+> Woke Capital is the latter. They don’t like capitalism, they like the worst parts.
+>  That might be obvious, but I had to put my finger on it. Why did these people who purported to hate capitalism become omnipresent at big companies?
+>  
+>  Partly hypocrisy, yes. But also…these people wanted reward, not risk. Power, not purpose. And a big company, not a small startup.
+>  All the parts the founder likes about capitalism — the creativity, the lack of structure, the adventure, and the motivation provided by the yawning chasm of failure below — is what repels the conformist.
+>  
+>  They hate economic risk as viscerally as the founder loves it
+>  
+>  — Balaji (@balajis), [February 19, 2022](https://twitter.com/balajis/status/1494958669842497538?ref_src=twsrc%5Etfw)
 
 The problem is not wealth itself. It is that wealth should be the result of delivering a useful service. The rules of the game, however unfair, should be known and agreed. As this point, it is worth declaring my bias. I was raised under the assumption that despite how unfair and unequal life is, despite the inequality in genetics, parenting, friends, location and generational wealth. We were all engaged in a common project of building and supporting the world around us. And however unfair and unequal the rewards were, they were at least related to delivering a service. You can make money by improving efficiency. 
 

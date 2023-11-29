@@ -146,7 +146,7 @@ How McKinsey can publish this with a straight face, I don't know:
 
 > ![](/assets/Pasted%20image%2020231128191226.png)
 > 
-> — [If we’re so busy, why isn’t anything getting done? | McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/if-were-all-so-busy-why-isnt-anything-getting-done)
+> — [If we’re so busy, why isn’t anything getting done? — McKinsey](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/if-were-all-so-busy-why-isnt-anything-getting-done)
 
 
 Some funny commentary on this.
