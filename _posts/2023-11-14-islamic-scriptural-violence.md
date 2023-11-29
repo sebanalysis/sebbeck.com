@@ -18,7 +18,7 @@ I have a zip of all the files and offending verses on GitHub: [https://github.co
 
 The offending verses in the Quran don't single out the Jews, but they do mention them at least once specifically, along with Christians, as people not to take as friends and people who you must fight. Otherwise, they are referred to as "people of the scripture".
 
->3|118| O you who believe! Take not as (your) Bitanah (advisors, consultants, protectors, helpers, friends, etc.) t__hose outside your religion__ (pagans, Jews, Christians, and hypocrites) since they will not fail to do their best to corrupt you. They desire to harm you severely. Hatred has already appeared from their mouths, but what their breasts conceal is far worse. Indeed We have made plain to you the Ayat (proofs, evidences, verses) if you understand.
+>3|118| O you who believe! Take not as (your) Bitanah (advisors, consultants, protectors, helpers, friends, etc.) __those outside your religion__ (pagans, Jews, Christians, and hypocrites) since they will not fail to do their best to corrupt you. They desire to harm you severely. Hatred has already appeared from their mouths, but what their breasts conceal is far worse. Indeed We have made plain to you the Ayat (proofs, evidences, verses) if you understand.
 
 >5|51| O you who believe! Take not the __Jews and the Christians__ as Auliya' (friends, protectors, helpers, etc.), they are but Auliya' to one another. And if any amongst you takes them as Auliya', then surely he is one of them. Verily, Allah guides not those people who are the Zalimun (polytheists and wrong-doers and unjust).
 
