@@ -12,7 +12,7 @@ The nuclear establishment moved from selling coal-competitive electricity in the
 
 Now, nuclear is primarily helmed by individuals who have no experience in building, whose mission is to further entrench their exclusivity while the remaining 450 operating reactors worldwide gradually reach their end of life without meaningful replacements in sight. Nuclear has to entirely relearn by doing. Nuclear safety culture is strong, but safety is a farce without competence.
 
-In the world's history, no private nuclear reactor company has designed and built a reactor with private funding, let alone a privately designed new design. And none since the 60s has certainly. Only the government programmes, very few have made profits. We have forgone opportunities for innovation, for decades due to mismanagement and monopolisation.
+In the world's history, no private nuclear reactor company has designed and built a reactor with private funding, let alone a privately designed new design. And none since the 60s has, certainly. Only the government programmes, very few have made profits. We have forgone opportunities for innovation, for decades due to mismanagement and monopolization.
 
 The parallel to a rejuvenation of such a stagnant industry is the founding and success of SpaceX by Elon Musk. It takes a technical leader who will invest his time and energy in making real risk vs reward trade-offs.
 
@@ -24,7 +24,7 @@ From my independent reading, I have identified the following principles for driv
 
 All the testing was done in the 60s until nuclear testing was effectively made illegal in the west. Since then, very few experimental reactors and been built, and we have tested none to destructive limits like they do in the aircraft industry. We need to do this to quantify the unknown unknowns.
 
-Something is better than nothing. Paper reactors are just that - they don't exist. The cost saving of modularity and optimization will pale in significance to trial and error with physical laborers on physical sites. The AP1000 was arguably over modularized, which had a net negative impact on construction time.
+Something is better than nothing. Paper reactors are just that — they don't exist. The cost saving of modularity and optimization will pale in significance to trial and error with physical labourers on physical sites. The AP1000 was arguably over modularized, which had a net negative impact on construction time.
 
 #### The leader must personally direct and own all the major design decisions
 
@@ -32,13 +32,13 @@ If you are distracted with winning money, you have already lost.
 
 #### Small team of highly capable people
 
-- Fast acting - more open and honest. Avoid siloing and entrenched interests.
-- Also, far cheaper - sell less of the original stake
+- Fast acting — more open and honest. Avoid siloing and entrenched interests.
+- Also, far cheaper — sell less of the original stake
 
 #### Industry Establishment are often the Industry's own enemy
 
-- The nuclear industry was born from post-WII defense contractors who, the moment nuclear become commercial in 1965, invited regulation to entrench their oligarchic market position.
-- The standards that since evolved are disproportionally stringent
+- The nuclear industry was born from post-WII defence contractors who, the moment nuclear become commercial in 1965, invited regulation to entrench their oligarchic market position.
+- The standards that since evolved are disproportionally stringent.
 
 #### Nuclear radiation is disproportionally feared
 

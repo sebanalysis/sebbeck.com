@@ -6,7 +6,7 @@ The Hundred Years War, is a fascinating and critical part of British and French 
 
 To fully grasp the nature and implications of the war, it's crucial to understand the contrasting structure of the English and French monarchies at that time.
 
-England's monarchy was highly centralized. The entire kingdom was considered crown-land, and the barons governed their territories at the king's behest. The king, however, was answerable to a parliament that maintained checks on his power. This ancient system, whose origins can be traced back to Anglo-Saxon times, and was nearly extinguished by the Normans had been re-established through significant events in the 1200's like the signing of the Magna Carta and the Provisions of Oxford.
+England's monarchy was highly centralized. The entire kingdom was considered crown-land, and the barons governed their territories at the king's behest. The king, however, was answerable to a parliament that maintained checks on his power. This ancient system, whose origins can be traced back to Anglo-Saxon times, and was nearly extinguished by the Normans had been re-established through significant events in the 1200s like the signing of the Magna Carta and the Provisions of Oxford.
 
 In contrast, the French monarchy operated differently. Until the late 15th century, only a fraction of France, primarily the region surrounding Paris, was designated as crown-land or the 'Royal domain'. The remainder of France was composed of various Duchies and Counties, operating as semi-autonomous vassal states. The Dukes and Counts of these regions, while pledging 'homage' to the French king, retained significant independent powers, creating a governance structure akin to that of the Holy Roman Empire.
 
@@ -55,7 +55,7 @@ The key rival forces at the start of the Lancastrian were the Duke of Burgundy a
 
 Until 1361, Burgundy was administered by the 'Burgundy' Cadet branch of the Capet house. The rulers of both became when Philip I died with no heirs. King John II of France therefore inherited the Duchy, and 2 years later, granted it to his youngest son, Philip II the Bold, who formed a new cadet Branch of Valois also called 'Burgundy'. The Duke of Burgundy was the undisputed premier peer of the King of France at the time. 
 
-Meanwhile, the County of Orléans had been part of the royal domain since around 950. It became a convention to gift the title of 'Duke of Orleans' to the kings younger son, despite it being a county rather than a Duchy. A the time of the Lancastrian war, it was gifted to Louis I, the second son of Charles V. The Duke of Orleans and the Duke of Burgundy became bitter rivals in the suceeding decades.
+Meanwhile, the County of Orléans had been part of the royal domain since around 950. It became a convention to gift the title of 'Duke of Orleans' to the king's younger son, despite it being a county rather than a Duchy. At the time of the Lancastrian war, it was gifted to Louis I, the second son of Charles V. The Duke of Orleans and the Duke of Burgundy became bitter rivals in the succeeding decades.
 
 
 ![france](/assets/Picture5.svg)
@@ -64,9 +64,9 @@ In 1393, King Charles VI went mad and Phillip the Bold, Charles' uncle, initiall
 
 ### French Civil War
 
-Philip the Bold died. So when John I, the Fearless of Burgundy, became Duke in 1404, he immediately entered a power struggle with the king's brother, Louis I, Duke of Orleans for control of regency. He did not deny assassinating Louis I in the streets of Paris in 1407. Louis's son, Charles the new Duke of Orleans immediately initiated a war against John the Fearless with support from his father in law; Bernard VII, Count of Armagnac. This was known as the Armagnac-Burgundian Civil War.  The King of France was not initially involved. It was a war between two duchies. 
+Philip the Bold died. So when John I, the Fearless of Burgundy, became Duke in 1404, he immediately entered a power struggle with the king's brother, Louis I, Duke of Orleans for control of the regency. He did not deny assassinating Louis I in the streets of Paris in 1407. Louis's son, Charles the new Duke of Orleans, immediately initiated a war against John the Fearless with support from his father-in-law; Bernard VII, Count of Armagnac. This was known as the Armagnac-Burgundian Civil War.  The King of France was not initially involved. It was a war between two duchies. 
 
-Both sides tried to seize control of the Dauphin, Louis of Guyenne who was 10 years-old at the time. His brother, Charles, who would eventually become King was only 4.
+Both sides tried to seize control of the Dauphin, Louis of Guyenne who was 10-years-old at the time. His brother, Charles, who would eventually become King, was only 4.
 
 Charles VI, due to his mental illness, didn't actively "take a side" in the conflict. His inability to rule effectively caused a power vacuum that was filled by these feuding factions. His wife, Isabeau of Bavaria, tended to align more with the Duke of Burgundy, particularly after the assassination of Louis I, Duke of Orleans (Charles's brother) by John the Fearless, Duke of Burgundy. But that doesn't necessarily mean that Charles himself took that side.
 
@@ -78,7 +78,7 @@ Henry V of England, aged 29, invaded Harfleur, Normandy in August 1415, where he
 
 During the English invasion, the Burgundians remained neutral, but the Armagnacs assembled a sizeable army which blocked Henry V at Agincourt on his road to Calais in October 1415. Henry crushed this army at the battle of Agincourt. Burgundy sent no troops to the battle, although two of John the Fearless's brothers independently elected to join and ultimately died in the battle. The Dauphin, Louis, was not actually present at the battle of Agincourt. He was probably ill with dysentery at the time and he died within two months, leaving his brother, Charles who the heir to the French throne the new Dauphin for the remainder of the war and who would eventually become Charles VI.
 
-By 1418, Burgundy was still neutral against England and, John the Fearless of Burgundy, acting in his own interests to secure the regency of France over the King's brother, occupied Paris, holding the mad King captive, but the new Dauphin, Charles, aged 15, escaped. With this new power and territory, John was thus in favor of meeting the new Dauphin, Charles, in order to sign up to an advantageous peace. A meeting was organized in 1419, in which he was assassinated by the Armagnacs.
+By 1418, Burgundy was still neutral against England and, John the Fearless of Burgundy, acting in his own interests to secure the regency of France over the King's brother, occupied Paris, holding the mad King captive, but the new Dauphin, Charles, aged 15, escaped. With this new power and territory, John was thus in favour of meeting the new Dauphin, Charles, in order to sign up to an advantageous peace. A meeting was organized in 1419, in which he was assassinated by the Armagnacs.
 
 ### Anglo-Burgundian Alliance
 
@@ -86,7 +86,7 @@ Philip the Good, aged 23, the new Duke of Burgundy, then entered into a formal a
 
 This confluence of interests was known as the Anglo-Burgundian faction, supporters of Henry V. The French rump-state was known as the 'Armagnac' or 'Royalist' faction, supporters of the dauphin, Charles VII. 
 
-The following is England at the height of it's power in the hundred years war un 1329.
+The following is England at the height of it's power in the hundred years war in 1329.
 
 ![E4BSGBtUcAUS4H8.jpg](/assets/E4BSGBtUcAUS4H8.jpg)
 
@@ -100,11 +100,11 @@ Until 1428, the English, led by Philip of Burgundy and the Duke of Bedford saw y
 
 ### Joan of Arc
 
-It was in 1428 that Joan of Arc appeared and the Armagnac fortunes improved. She re-invorgated the defense of Orleans in 1429, eventually breaking the siege with a new offensive. She convinced the Dauphin to crown himself in Rhiems, marching north through enemy territory in the process. Henry VI was later coronated as King of France in Paris at age 10 in 1431 in response. Joan was eventually captured, and was burned at the stake a year later in 1431.
+It was in 1428 that Joan of Arc appeared and the Armagnac fortunes improved. She re-invigorated the defence of Orleans in 1429, eventually breaking the siege with a new offensive. She convinced the Dauphin to crown himself in Rheims, marching north through enemy territory in the process. Henry VI was later coronated as King of France in Paris at age 10 in 1431 in response. Joan was eventually captured, and was burned at the stake a year later in 1431.
 
 ### English Defeat
 
 The English continued to suffer defeats until 1435. Their failure was cemented when the Burgundians their essential ally, still led by Philip the good, switched sides. Paris was recaptured by Charles VII the next year. The hostilities continued until the English lost control of Bordeaux in 1453, leaving only the Pale of Calais. It ended without a peace treaty. The English eventually lost Calais in 1558.
 
-The English royalty retained their claim to the Kingdom France, until King George III used the Act of union with Ireland to drop it in 1800. The fleur-de-lys was removed from the British coat of arms, over 400 years after Edward III had added it.
+The English royalty retained their claim to the Kingdom France, until King George III used the Act of union with Ireland to drop it in 1800. The fleur-de-lis was removed from the British coat of arms, over 400 years after Edward III had added it.
 

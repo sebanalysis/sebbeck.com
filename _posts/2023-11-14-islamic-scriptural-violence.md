@@ -120,7 +120,7 @@ Here, Mohammed's  last words, expressing disapproval of Jews and Christians buil
 
 ### Sahih Muslim Hadith
 
-This notion of Muhammed saying something to the effect of the earth crying out in order to help Muslims kill Jews is repeated by no less than 6 witnesses in the Sahih Muslim Hadith too. The repetitition is not a mistake on my part. Perhaps an issue in the translation?
+This notion of Muhammed saying something to the effect of the earth crying out in order to help Muslims kill Jews is repeated by no less than 6 witnesses in the Sahih Muslim Hadith too. The repetition is not a mistake on my part. Perhaps an issue in the translation?
 
 > [Book 41](https://github.com/sebanalysis/hadith/blob/master/hadith/041_smt.html), Number 6981: Ibn 'Umar reported Allah's Messenger (may peace be upon him) as saying: You will fight against the Jews and you will kill them until even __a stone would say:  Come here, Muslim, there is a Jew (hiding himself behind me); kill him__.
 
@@ -163,23 +163,23 @@ The vast majority of these bad verses are inside the Old Testament, which is lar
 
 It matters that the ratio of inconvenient to benign verses in the Quran is very high. There is no Jesus in Matthew urging to turn the other cheek. 
 
->  But I say to you, Do not resist one who is evil. But if any one strikes you on the right cheek, turn to him the other also; 
+>  But I say to you, Do not resist one who is evil. But if anyone strikes you on the right cheek, turn to him the other also; 
 >  
->  ― [Matthew 5:39, Revised Standard Version](https://quod.lib.umich.edu/cgi/r/rsv/rsv-idx?type=DIV1&byte=4563978)
+>  ― [Matthew 5:39, Revised Standard Version Translation](https://quod.lib.umich.edu/cgi/r/rsv/rsv-idx?type=DIV1&byte=4563978)
 
 The doctrine of immediate ascent to paradise after martyrdom is explicitly discussed multiple times. The reward of paradise is highly relevant to someone's willingness to martyr themselves in the struggle for global dominance of the religion.
 
-Whereas in the bible there is only an _implied_ mention of such an immediate presence with god after death: __"my desire is to depart and be with Christ"__. It is not an exaggeration to say that the entire contemporary Christian view of heaven _immediately_ after death is taken from this one verse inside Paul's letter to the Philippians. A fact I got from [Bart Ehrman](https://en.wikipedia.org/wiki/Bart_D._Ehrman) on [Sam Harris #125 - What is Christianity? A Conversation with Bart Ehrman](https://www.samharris.org/podcasts/making-sense-episodes/what-is-christianity)
+Whereas in the bible, there is only an _implied_ mention of such an immediate presence with god after death: __"my desire is to depart and be with Christ"__. It is not an exaggeration to say that the entire contemporary Christian view of heaven _immediately_ after death is taken from this one verse inside Paul's letter to the Philippians. A fact I got from [Bart Ehrman](https://en.wikipedia.org/wiki/Bart_D._Ehrman) on [Sam Harris #125 — What is Christianity? A Conversation with Bart Ehrman](https://www.samharris.org/podcasts/making-sense-episodes/what-is-christianity)
 
-> 21 For to me, living is Christ and dying is gain. 22 If I am to live in the flesh, that means fruitful labour for me; and I do not know which I prefer. 23 I am hard pressed between the two: my desire is __to depart and be with Christ__, for that is far better; 
+> 21 For to me, living is Christ and dying is gain. 22 If I am to live in the flesh, that means fruitful labour for me; and I do not know which I prefer. 23 I am hard-pressed between the two: my desire is __to depart and be with Christ__, for that is far better; 
 > 
-> ― [Philippians 1:21-24 NRSVA](https://www.biblegateway.com/passage/?search=Philippians%201%3A21-24&version=NRSVA)
+> ― [Philippians 1:21–24, NRSVA Translation](https://www.biblegateway.com/passage/?search=Philippians%201%3A21-24&version=NRSVA)
 
-Briefly in Paul's letter to the Thessalonians , it discusses the Day of Judgement at the end of the world where "those in Christ" will be raised from the dead, whereas the dead will stay dead. 
+Briefly in Paul's letter to the Thessalonians, it discusses the Day of Judgement at the end of the world where "those in Christ" will be raised from the dead, whereas the dead will stay dead. 
 
-> 16 For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet call of God, and the dead in Christ will rise first. 17 After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever. 
+> 16 For the Lord himself will come down from heaven, with a loud command, with the voice of the archangel and with the trumpet-call of God, and the dead in Christ will rise first. 17 After that, we who are still alive and are left will be caught up together with them in the clouds to meet the Lord in the air. And so we will be with the Lord forever. 
 > 
-> ― [1 Thessalonians 4 NIV](https://www.biblegateway.com/passage/?search=1%20Thessalonians%204&version=NIV)
+> ― [1 Thessalonians 4:16–17, NIV Translation](https://www.biblegateway.com/passage/?search=1%20Thessalonians%204&version=NIV)
 
 In Revelation, there is extensive discussion of the Day of Judgement. In general there is very poor scriptural evidence for paradise, and thus martyrdom in Christianity.
 

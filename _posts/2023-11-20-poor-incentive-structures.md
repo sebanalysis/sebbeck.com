@@ -1,32 +1,32 @@
-People undertake counterproductive or irrational actions due to poorly designed incentives, is not unique to any one historical or contemporary context. Here are a few examples from various domains:
+People undertake counterproductive or irrational actions due to poorly designed incentives, is not unique to anyone historical or contemporary context. Here are a few examples from various domains:
 
-1. **Soviet Union Agricultural Policies**: Similar to the scrap metal example, Soviet agricultural policies often set unrealistic production targets. This led to widespread falsification of data, where farm managers would report inflated harvest figures to meet quotas, resulting in a mismatch between actual production and reported figures, leading to misallocation of resources and food shortages.
+1. **Soviet Union Agricultural Policies**: The Soviet agricultural policies, particularly during the 1920s-1980s, often set unrealistic production targets, leading to widespread data falsification and resource misallocation. [Read more](https://en.wikipedia.org/wiki/Agriculture_in_the_Soviet_Union).
     
-2. **Cobra Effect in Colonial India**: This is a classic example of unintended consequences of an incentive scheme. The British government, concerned about the number of cobras in Delhi, offered a bounty for every dead cobra. Initially, this led to a large number of cobras being killed, but soon people began breeding cobras for income. When the government became aware of this and scrapped the bounty, the breeders released their now-worthless cobras, increasing the wild population.
+2. **Cobra Effect in Colonial India**: This incident occurred during British rule in India, specifically in the early 20th century. The British government's bounty program for cobras in Delhi led to unintended consequences. [Read more](https://en.wikipedia.org/wiki/Cobra_effect).
     
-3. **Hanoi Rat Massacre, 1902**: The French colonial administration in Hanoi, Vietnam, offered a bounty for each rat tail handed in, intending to exterminate rats to combat the bubonic plague. However, people began to breed rats to collect their tails and even cut tails off rats without killing them, leading to an increase in the rat population.
+3. **Hanoi Rat Massacre, 1902**: This event took place in 1902 when the French colonial administration in Hanoi offered a bounty for rat tails, inadvertently increasing the rat population. [Read more](https://en.wikipedia.org/wiki/Rat_massacre).
     
-4. **Scrap Vehicle Programs**: Various countries have implemented programs to incentivize the scrapping of old vehicles to reduce pollution or stimulate new car sales. However, this sometimes leads to the premature scrapping of functional vehicles, contributing to waste and often only a marginal improvement in environmental outcomes.
+4. **Scrap Vehicle Programs**: Various countries have implemented these programs, particularly in the late 20th and early 21st centuries, to reduce pollution or stimulate new car sales, sometimes leading to wasteful outcomes. [Read more](https://en.wikipedia.org/wiki/Vehicle_scrappage_program).
     
-5. **Academic Publishing "Publish or Perish" Culture**: In academia, the pressure to publish frequently can lead to a quantity-over-quality approach. Researchers might focus on shorter, less impactful studies that are easier to publish rather than undertaking more significant, rigorous research.
+5. **Academic Publishing "Publish or Perish" Culture**: This culture has been particularly prominent in academia since the late 20th century, emphasizing quantity of publications over quality. [Read more](https://en.wikipedia.org/wiki/Publish_or_perish).
     
-6. **Overfishing Due to Fishing Quotas**: In some cases, fishing quotas have led to overfishing as fishermen catch as much as possible, irrespective of the breeding season or size of the fish, to maximize their quota. This can lead to long-term damage to fish populations.
-
-1. **Wells Fargo Account Fraud Scandal**: Wells Fargo employees, under pressure to meet aggressive sales targets, created millions of unauthorized bank and credit card accounts in customers' names without their consent. This widespread fraud resulted from the bank's incentive structure, which rewarded employees for opening new accounts.
+6. **Overfishing Due to Fishing Quotas**: Fishing quotas, particularly prominent from the late 20th century to the present, have sometimes led to overfishing and ecological damage. [Read more](https://en.wikipedia.org/wiki/Overfishing).
     
-2. **The Destruction of the Aral Sea**: The Soviet Union's plan to boost cotton production in Central Asia involved diverting rivers for irrigation. The incentive to increase cotton yields led to severe overuse of water resources, ultimately shrinking the Aral Sea dramatically and causing ecological catastrophe.
+7. **Wells Fargo Account Fraud Scandal**: This scandal came to light in 2016, where Wells Fargo employees created unauthorized accounts to meet sales targets. [Read more](https://en.wikipedia.org/wiki/Wells_Fargo_account_fraud_scandal).
     
-3. **The U.S. Healthcare System's Fee-for-Service Model**: This model compensates healthcare providers for each service performed, like tests and procedures, rather than for overall patient health outcomes. This can lead to unnecessary treatments and tests, driving up costs without necessarily improving patient health.
+8. **The Destruction of the Aral Sea**: The diversion of rivers for cotton production, primarily in the 1960s, led to the shrinking of the Aral Sea and ecological disaster. [Read more](https://en.wikipedia.org/wiki/Aral_Sea).
     
-4. **Chinese One-Child Policy Unintended Consequences**: Introduced to control population growth, this policy led to a demographic imbalance with a disproportionately high number of male births due to cultural preferences for male offspring, leading to social issues such as an aging population and gender imbalances.
+9. **The U.S. Healthcare System's Fee-for-Service Model**: This model has been prevalent in the U.S. healthcare system particularly since the mid-20th century, often leading to unnecessary treatments. [Read more](https://en.wikipedia.org/wiki/Fee-for-service).
     
-5. **Recycling Incentives Leading to Increased Waste**: Some recycling programs, designed to encourage recycling, have inadvertently led people to consume more disposable products under the impression that recycling absolves the environmental impact, potentially increasing overall waste.
+10. **Chinese One-Child Policy Unintended Consequences**: Implemented from 1979 to 2015, this policy led to demographic imbalances and social issues in China. [Read more](https://en.wikipedia.org/wiki/One-child_policy).
     
-6. **Employee Time Tracking Leading to Focus on Hours, Not Productivity**: In some companies, strict time-tracking systems incentivize employees to focus on logging hours rather than being productive, leading to inefficiencies and a culture that values presence over performance.
+11. **Recycling Incentives Leading to Increased Waste**: This phenomenon has been observed particularly in the late 20th and early 21st centuries, where some recycling programs inadvertently increase consumption. [Read more](https://en.wikipedia.org/wiki/Recycling).
     
-7. **Traffic Fines Based on Income**: In some countries, traffic fines are based on the offender's income, intending to make penalties equally painful for all. However, this can lead to extremely high fines for high earners, which might be seen as unjust or could lead to efforts to hide income.
+12. **Employee Time Tracking Leading to Focus on Hours, Not Productivity**: This issue has become more prominent with the rise of digital monitoring tools in the late 20th and early 21st centuries. [Read more](https://en.wikipedia.org/wiki/Time_tracking_software).
     
-8. **Carbon Credits and Environmental Damage**: Some carbon credit schemes, intended to offset emissions, have led to unintended environmental damage. For instance, large areas of forest might be cleared to plant biofuel crops, or the creation of monoculture tree plantations that harm biodiversity.
+13. **Traffic Fines Based on Income**: Implemented in various countries, particularly in the 21st century, this approach to traffic fines aims to equalize the impact across income levels but has faced criticism. [Read more](https://en.wikipedia.org/wiki/Day-fine).
+    
+14. **Carbon Credits and Environmental Damage**: The use of carbon credits has been prominent since the late 20th century, but some schemes have led to environmental issues like deforestation and loss of biodiversity. [Read more](https://en.wikipedia.org/wiki/Carbon_credit).
 
 
 ## The Renewable Heat Incentive Scandal in Northern Ireland (2012-2016)
@@ -57,20 +57,19 @@ The scandal implicated several high-profile politicians and led to the resignati
 The RHI scandal is a prime example of how well-intentioned policies can have unintended negative consequences when incentive structures are not carefully thought out and controlled.
 
 
-## In government, "process" is  Incentivised to Catastrophic Results
+## In government, “process” is incentivized instead of “function”
+The following quote perfectly describes government, and this is a tragedy:
 
-This describes government, and this is a tragedy:
-
->“In the most dysfunctional organizations, signaling that work is being done becomes a better strategy for career advancement than actually doing work (if this describes your company, you should quit now).”  
+>“In the most dysfunctional organizations, signalling that work is being done becomes a better strategy for career advancement than actually doing work (if this describes your company, you should quit now).”  
 >― Peter Thiel, [Zero to One: Notes on Startups, or How to Build the Future](https://www.goodreads.com/work/quotes/25332940)
 
-The civil service is an excessively well funded jobs program and social status ladder which performs functionally random decision making, with the illusion of purpose through retroactive reasoning. Dominic Cummings has been a solitary light drawing attention to the depths of despair that the UK civil service has fallen too:
+The civil service is an excessively well funded jobs program and social status ladder which performs functionally random decision-making, with the illusion of purpose through retroactive reasoning. Dominic Cummings has been a solitary light drawing attention to the depths of despair that the UK civil service has fallen too:
 
-> So what does the civil service incentivise? It fundamentally incentivises an obsession on _process_, staying friends with special interests, and empire building. \[...] In the most dysfunctional organizations, signaling that work is being done becomes a better strategy for career advancement than actually doing work. If this describes your company, quit now. Now, that describes the vast majority of activity in Whitehall. It's signaling and it's process obsession. It's not obsession on quality, it's not obsession on good services, it's not obsession on trying to get some, on trying to get useful things done. 
+> So what does the civil service incentivize? It fundamentally incentivizes an obsession on _process_, staying friends with special interests, and empire building. \[...] In the most dysfunctional organizations, signalling that work is being done becomes a better strategy for career advancement than actually doing work. If this describes your company, quit now. Now, that describes the vast majority of activity in Whitehall. It's signalling and it's process obsession. It's not obsession on quality, it's not obsession on good services, it's not obsession on trying to get some, on trying to get useful things done. 
 > 
-> ― [Dominic Cummings speech at IPPR - The Hollow Men (2014)](https://www.youtube.com/live/GNaWPV5l4j4?si=TgdzpEIGxV1y8OjG&t=1179) 
+> ― [Dominic Cummings speech at IPPR — The Hollow Men (2014)](https://www.youtube.com/live/GNaWPV5l4j4?si=TgdzpEIGxV1y8OjG&t=1179) 
 > 
-> ― Transcript: ![](/assets/transcripts/Dominic.Cummings.speech.at.IPPR.-.The.Hollow.Men.(2014).txt)
+> ― [Transcript](/assets/transcripts/Dominic.Cummings.speech.at.IPPR.-.The.Hollow.Men.(2014).txt)
 
 In the civil service in 2023, we have poor incentives build in at the root. It is a system that by definition can only produce failure because the set of incentives do misaligned with the interests of the nation. Once you truly accept this fact, you realise that there is no re-helming the ship. The only way is refounding.
 

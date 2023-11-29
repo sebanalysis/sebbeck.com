@@ -32,7 +32,7 @@ Bearing this in mind, the following is an attempt to summarizes the key antidote
 
 My philosophy of management consists of 3 maxims: transparency, simplification, goal-orientation.
 
-- Transparency: Wages, roles, tasks, responsibilities, motivations: everything will be open and obvious to all involved. There should be no pretense about the differing financial motivations and incentives of wage laborers and those with shares. Company information should be based on raw data accessible online, not on hearsay.
+- Transparency: Wages, roles, tasks, responsibilities, motivations: everything will be open and obvious to all involved. There should be no pretence about the differing financial motivations and incentives of wage laborers and those with shares. Company information should be based on raw data accessible online, not on hearsay.
 - Simplification: Remove requirements and processes that do not serve the goal. The more abstract, generally the more useless. People should never be paid to justify their own job. They should be incentivized to automate or remove the need for it, and then be promoted as they now do the work of multiple people.
 - Goal-orientation: The purpose of the business is to make money from delivering a product. I refuse to rent seek or justify it as 'operating under the fiduciary responsibility to shareholders'. This only moves humanity backward. What is required to motivate people is a constant awareness of the goal. We should work to constantly and iteratively redefine the goal. 
 
@@ -49,7 +49,7 @@ When it has occurred to me, I have tried to note down the following practices:
 - Relevant organization charts and abstract processes will be physically placed on the wall.
 - I will not micromanage. 
 - I will take ultimate ownership for everything.
-- I will instill the sense that I judge my employees based on the work they produce, not the time they spend.
+- I will instil the sense that I judge my employees based on the work they produce, not the time they spend.
 - Documents to avoid the passive voice wherever possible. It is not a sign of professionalism to remove the subject of a verb. 
 - Tick-boxing exercises to be avoided entirely. Where legally necessary, they will be acknowledged as such and executed with awareness.
 - Work will thus be divided into either real or tick box, and the distinction will be acknowledged.
@@ -62,11 +62,11 @@ When it has occurred to me, I have tried to note down the following practices:
 
 ## Removing Hearsay
 
-Organisation tend to transfer information through human-packaged snippets in the form of emails, reports and presentations. Information is always therefore cherry-picked, or deliberately or accidentally modified. The data I am reffering to is status of contracts, hours allocated, work progress, documentation sign-off, recent decisions, bid progress, investment decisions.
+Organization tend to transfer information through human-packaged snippets in the form of emails, reports and presentations. Information is always therefore cherry-picked, or deliberately or accidentally modified. The data I am referring to is status of contracts, hours allocated, work progress, documentation sign-off, recent decisions, bid progress, investment decisions.
 
-The issue this is trying to overcome is that the working version of the data tends to be offline: in people's heads, emails, whats-apps, teams meetings, excel documents and note documents. The version that is therefore transmitted is a diluted version which shows the employee in the best light.
+The issue this is trying to overcome is that the working version of the data tends to be offline: in people's heads, emails, WhatsApp messages, Teams meetings, Excel documents and note documents. The version that is therefore transmitted is a diluted version which shows the employee in the best light.
 
-Siloing happens when this occurs horizontally, and deluded management happens when this happens vertically up the organisation. 
+Siloing happens when this occurs horizontally, and deluded management happens when this happens vertically up the organization. 
 
 
 

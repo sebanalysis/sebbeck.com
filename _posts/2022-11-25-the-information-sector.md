@@ -1,23 +1,23 @@
 ---
 layout: post
 ---
-At the root of so many problems is in the modern world is the fact that people are largely wasting their productive lives doing tasks abstracted from reality, involving no bodily movement and creating no physical product. In many cases, the employee even [asserts when polled](2022-11-11-bullshit-jobs) that their job is lacking any meaning. Physically productive jobs don't pay. Instead rewards are disproportionately distributed to speculative and rent-seeking industries. Most people have lost their professional dignity.
+At the root of so many problems is in the modern world is the fact that people are largely wasting their productive lives doing tasks abstracted from reality, involving no bodily movement and creating no physical product. In many cases, the employee even [asserts when polled](2022-11-11-bullshit-jobs) that their job is lacking any meaning. Physically productive jobs don't pay. Instead, rewards are disproportionately distributed to speculative and rent-seeking industries. Most people have lost their professional dignity.
 
 ### Abstract Jobs in the 'Information Sector'
 
-The economy has become more abstract as it becomes exponentially more complex and Job roles are becoming exponentially more specialized. I mean [exponential growth](https://en.wikipedia.org/wiki/Exponential_growth) literally, as this is a situation in which a growing number of jobs grows an exponential number of interconnections and interactions, home for more jobs. But tied to complexity and less remarked-upon is the growing abstractness of our jobs. People are now working in what is best termed 'the information sector'.
+The economy has become more abstract as it becomes exponentially more complex, and Job roles are becoming exponentially more specialized. I mean [exponential growth](https://en.wikipedia.org/wiki/Exponential_growth) literally, as this is a situation in which a growing number of jobs grows an exponential number of interconnections and interactions, home for more jobs. But tied to complexity and less remarked-upon is the growing abstractness of our jobs. People are now working in what is best termed 'the information sector'.
 
-The US economy, like all other OECD nations, largely employ's people in the 'service' sector. Using the typical three sector model the [break-down](https://www.bls.gov/emp/tables/employment-by-major-industry-sector.htm) is: agriculture: 1.5%, Industry (mining, manufacturing, construction): 13%, Service: 80% and, Self-Employed: 5.5%. As of 2016, in the UK, tertiary(service) sector employs [83.6%](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/compendium/economicreview/april2019/longtermtrendsinukemployment1861to2018) of people.
+The US economy, like all other OECD nations, largely employ's people in the 'service' sector. Using the typical three sector model, the [break-down](https://www.bls.gov/emp/tables/employment-by-major-industry-sector.htm) is: agriculture: 1.5%, Industry (mining, manufacturing, construction): 13%, Service: 80% and, Self-Employed: 5.5%. As of 2016, in the UK, the tertiary (service) sector employs [83.6%](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/compendium/economicreview/april2019/longtermtrendsinukemployment1861to2018) of people.
 
 Taking the UK economy as an example, it can be seen that the share of jobs in the __service sector__ rose from 55% in 1966, to 83% in 2010, after which it has plateaued.
 
 ![2022-11-13-masculinity_image_1.png](/assets/2022-11-13-masculinity_image_1.png)
 
-But the three-sector model was developed in the 1930s and 40s when the proportions were far more even and the nature of work was different. And the growth of the service sector has clearly not been in the provision of real services, rather in abstract services. This extended service sector or has typically been described as the finance, insurance and real-estate sector (FIRE).  Alternatively, the Wikipedia definition of a wider '[quaternary sector](https://en.wikipedia.org/wiki/Quaternary_sector_of_the_economy)' is a vague one. 
+But the three-sector model was developed in the 1930s and 40s, when the proportions were far more even and the nature of work was different. And the growth of the service sector has clearly not been in the provision of real services, rather in abstract services. This extended service sector or has typically been described as the finance, insurance and real-estate sector (FIRE).  Alternatively, the Wikipedia definition of a wider '[quaternary sector](https://en.wikipedia.org/wiki/Quaternary_sector_of_the_economy)' is a vague one. 
 
 Under the current three sector model and these additional categories, workers are classified simply because of the sector of the company paying them, not the activity they are performing. The official figures suggest that 7.9% of the workforce engaged in manufacturing in the USA, 13% including mining and construction, but even in those physically productive industries, less than half are working in non-information roles in the real world. From 27:30: in [Larry Summers: The High Price of Getting it Right, Honestly with Bari Weiss](https://podcasts.apple.com/us/podcast/larry-summers-the-high-price-of-getting-it-right/id1570872415?i=1000576475537) from 18th August 2022.
 
->_Already in the United States, only about __4%__ of our workforce is involved in production work in manufacturing. You often hear the number "10% of the people are in the manufacturing sector", but the majority of workers in manufacturing are accountants or personal assistants or marketing people or people who are doing something other than producing_
+>_Already in the United States, only about __4%__ of our workforce is involved in production work in manufacturing. You often hear the number "10% of the people are in the manufacturing sector", but the majority of workers in manufacturing are accountants or personal assistants or marketing people or people who are doing something other than producing._
 >
 > ― [Larry Summers: The High Price of Getting it Right, Honestly with Bari Weiss](https://podcasts.apple.com/us/podcast/larry-summers-the-high-price-of-getting-it-right/id1570872415?i=1000576475537) from 18th August 2022.
 
@@ -26,12 +26,12 @@ But I think there is a better definition: 'the information sector', one that rep
 
 We are talking about administrators, consultants, clerical and accounting staff, IT professionals. This is the segment of the economy that has grown. In my experience, a large proportional of this time is, people editing information as these move it between different Microsoft Office document formats and discussing it at length in meetings. Note, the 'information sector' is not to be confused with the '[information industry](https://en.wikipedia.org/wiki/Information_industry)' or the '[IT sector](https://en.wikipedia.org/wiki/Information_technology)'.
 
-In 1992, [Robert M. Hayes, presented](http://web.simmons.edu/~chen/nit/NIT%2792/175-hay.htm)  an updated version of Mark Porat's model with data extending to 1990, where information sector had risen to 55%. He clarifies that almost exactly half of this workforce is from Information sector companies, and half are employees from other sectors, whose activity is 'information-oriented'. In Bullshit jobs, Graeber has cleaned-up and digitalized the 1992 graphics. But it is still terrible, so I have jankily colored it in as below to show unambiguously that it is a stacked line graph:
+In 1992, [Robert M. Hayes, presented](http://web.simmons.edu/~chen/nit/NIT%2792/175-hay.htm)  an updated version of Mark Porat's model with data extending to 1990, where information sector had risen to 55%. He clarifies that almost exactly half of this workforce is from Information sector companies, and half are employees from other sectors, whose activity is 'information-oriented'. In Bullshit jobs, Graeber has cleaned-up and digitalized the 1992 graphics. But it is still terrible, so I have jankily coloured it in as below to show unambiguously that it is a stacked line graph:
 
 ![2022-11-13-masculinity_image_2.png](/assets/2022-11-13-masculinity_image_2.png)
 
 
-I am yet to find a 2022 version of this graph, and I don't think data is available. David Graeber notes in Bullshit Jobs _"no one, to my knowledge, has pursued this particular breakdown through to the present"_.
+I am yet to find a 2022 version of this graph, and I don't think data is available. David Graeber notes in Bullshit Jobs _“no one, to my knowledge, has pursued this particular breakdown through to the present”_.
 
 But, to get a lower bound estimate of information sector jobs, assuming the same proportion of other sector workers are involved in information activities agriculture: 33%, industry: 44% and, services: 69%, as Hayes assumes in 1992, by reading the ratios from his graphs we would have an information sector employing of __64%__ of Americans. I would guess this to be even significantly more than this, as administration roles across all industry sectors are well-known to have ballooned even since 1990.
 
@@ -90,13 +90,13 @@ Daniel Markovitz's 2019 book 'The Meritocracy Trap' focuses on the top 1% and th
 
 In Chapter Six he talks about glossy and gloomy jobs and states:
 
-> The top jobs pay so well because a raft of new technologies has fundamentally transformed work to make exceptional skills enormously more productive than they were at midcentury and ordinary skills relatively less productive.
+> The top jobs pay so well because a raft of new technologies has fundamentally transformed work to make exceptional skills enormously more productive than they were at mid-century and ordinary skills relatively less productive.
 > ...
-> The more lyrically minded have said that the labor market is increasingly divided up into “lousy” jobs that require little training, involve simple work, and pay low wages, and “lovely” jobs that require elaborate educations and provide interesting and complex work at high pay.
+> The more lyrically minded have said that the labour market is increasingly divided up into “lousy” jobs that require little training, involve simple work, and pay low wages, and “lovely” jobs that require elaborate educations and provide interesting and complex work at high pay.
 > … 
-> This lyricism, however, ignores the most important harms that the transformation of the labor market imposes. It papers over the fact that the lousy jobs are not just boring and low-paid but also—indeed, specifically on account of job polarization—carry low status and afford no realistic prospects for advancement. 
+> This lyricism, however, ignores the most important harms that the transformation of the labour market imposes. It papers over the fact that the lousy jobs are not just boring and low-paid but also—indeed, specifically on account of job polarization—carry low status and afford no realistic prospects for advancement. 
 > ...
-> It is therefore more apt to say that the labor market has divided into gloomy and glossy jobs: gloomy because they offer neither immediate reward nor hope for promotion, and glossy because their outer shine masks inner distress.
+> It is therefore more apt to say that the labour market has divided into gloomy and glossy jobs: gloomy because they offer neither immediate reward nor hope for promotion, and glossy because their outer shine masks inner distress.
 > 
 > — Daniel Markovitz, The Meritocracy Trap, 2019
 
@@ -107,13 +107,13 @@ The vast majority of people are working these gloomy jobs with:
 
 ### The Destruction of the Middle Class
 
-The middle class has already been thoroughly destroyed in his Podcast with Sam Harris, [#205 - The Failure of Meritocracy](https://pca.st/episode/ef51d089-fec5-47ba-82e6-f247ca69be16) May 23rd, 2020. 
+The middle class has already been thoroughly destroyed in his Podcast with Sam Harris, [#205—The Failure of Meritocracy](https://pca.st/episode/ef51d089-fec5-47ba-82e6-f247ca69be16) May 23rd, 2020. 
 For kids born in 1940, almost all became richer than their parents. Only the top 95% percentile were not certain to be richer than their parents.
 
 Markovitz then summaries the class resentment that this produces:
 > All the elite jobs, law firms, investment banks, management jobs, specialist medical doctors require one to have gone through a version of this fancy education. Those institutions exclude middle and working class families by the number of hoops required to jump through. Unless you are incredibly exceptional, you will not have enough privilege to get along.
 >Those that are excluded get appropriately angry and resentful and turn against the institutions, the professional companies, the forms of expertise, the schools that people on the outside correctly think are underwriting their disadvantage and exclusion. A populist like trump exploits that class resentment. Trump inherited a lot of money, but is not part of this system of training, education and professional certification that people correctly see as the principal source of their exclusion. Not his inheritance.
-> All the doctors and lawyers and bankers and CEOs and elite managers, who are training their kids and getting them into the best schools and buying houses in the best neighborhoods and getting them into the best colleges, is what keeps most Americans down.
+> All the doctors and lawyers and bankers and CEOs and elite managers, who are training their kids and getting them into the best schools and buying houses in the best neighbourhoods and getting them into the best colleges, is what keeps most Americans down.
 > 
-> — [Sam Harris Making Sense Podcast #205 - The Failure of Meritocracy, David Markovitz, May 23rd, 2020](https://pca.st/episode/ef51d089-fec5-47ba-82e6-f247ca69be16) 
+> — [Sam Harris Making Sense Podcast #205—The Failure of Meritocracy, David Markovitz, May 23rd, 2020](https://pca.st/episode/ef51d089-fec5-47ba-82e6-f247ca69be16) 
 

@@ -3,13 +3,13 @@ BBC regularly produce useless nonsense on climate change. Recently, they release
 
 The titular question was:
 
-> *__"Can a country live on renewable energy alone?"__*
+> *__“Can a country live on renewable energy alone?”__*
 
 If you assume the clauses with existing population and development levels, the answer is clearly no. 
 
 However, this podcast gives the impression that it is possible. If you focus on certain given countries, it may even be true. 
 
-I transcribed the podcast with[ openai, whisper](https://github.com/Const-me/Whisper/releases) and I highlighted all the numbers with:
+I transcribed the podcast with[ OpenAI, whisper](https://github.com/Const-me/Whisper/releases) and I highlighted all the numbers with:
 
 ```
 sed -r 's/\b(\<[0-9]+\>|half|third|quarter|fifth|sixth|seventh|eighth|ninth|hundreth|thousanth|zero|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand|million|billion|trillion)/ __\1__ /gi' TheInquiry-20221117-CanACountryLiveOnRenewableEnergyAlone.txt > TheInquiry-20221117-CanACountryLiveOnRenewableEnergyAlone.md
@@ -17,7 +17,7 @@ sed -r 's/\b(\<[0-9]+\>|half|third|quarter|fifth|sixth|seventh|eighth|ninth|hund
 
 [Download the full transcript here](assets/transcripts/TheInquiry-20221117-CanACountryLiveOnRenewableEnergyAlone.txt)
 
-I have manually extracted all the numerical claims related directly to energy supply made during the entire podcast below. There were four experts and it ran for a duration of 23 minutes. 
+I have manually extracted all the numerical claims related directly to energy supply made during the entire podcast below. There were four experts, and it ran for a duration of 23 minutes. 
 
 ### Sarah Kurtz. Professor at the University of California:
 
@@ -31,13 +31,13 @@ I have manually extracted all the numerical claims related directly to energy su
 
 > Today, __nine__ out of __ten__ houses in Iceland are heated with geothermal energy.
 >
-> Actually over __50__ percent of newly registered cars are purely electric
+> Actually, over __50__ percent of newly registered cars are purely electric
 
 ### Christian Breyer. Professor for solar economy at LUT University in Finland
 
-> In the summer in the northern hemisphere solar energy is really good during daytime the wind energy is excellent in the winter __half__ year very often __24__/ __7__ and then we have to combine both resources and then of course with the renewable energy we need flexibility in the system flexibility in demand and storage.
+> In the summer in the Northern Hemisphere solar energy is really good during daytime the wind energy is excellent in the winter __half__ year very often __24__/ __7__, and then we have to combine both resources and then of course with the renewable energy we need flexibility in the system flexibility in demand and storage.
 > 
-> __80__ percent of all batteries we need as a society we will need in vehicles typically rolling on the road so for cars for trucks for buses so there we will need most of the batteries and they're very valuable because they can indirectly balance the electricity generation we call that smart charging smart ev charging. 
+> __80__ percent of all batteries we need as a society we will need in vehicles typically rolling on the road so for cars for trucks for buses so there we will need most of the batteries, and they're very valuable because they can indirectly balance the electricity generation we call that smart charging smart ev charging. 
 
 ### Tim Buckley. Director of climate energy finance in Sydney
 
@@ -45,7 +45,7 @@ I have manually extracted all the numerical claims related directly to energy su
 >
 > I'm predicting the electricity price the wholesale price of electricity is going to drop by upwards of __50__ __60__ __70__ percent over the coming decade.
 >
-> When you're looking at __20__ __million__ batteries on wheels that will play a huge function in terms of absorbing excess generation every day
+> When you're looking at __20__ __million__ batteries on wheels, that will play a huge function in terms of absorbing excess generation every day
 
 ## My conclusion
 
