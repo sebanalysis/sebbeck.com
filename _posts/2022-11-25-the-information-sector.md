@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-At the root of so many problems is in the modern world is the fact that people are largely wasting their productive lives doing tasks abstracted from reality, involving no bodily movement and creating no physical product. In many cases, the employee even [asserts when polled](/https://sebbeck.com/2022/11/11/bullshit-jobs) that their job is lacking any meaning. Physically productive jobs don't pay. Instead rewards are disproportionately distributed to speculative and rent-seeking industries. Most people have lost their professional dignity.
+At the root of so many problems is in the modern world is the fact that people are largely wasting their productive lives doing tasks abstracted from reality, involving no bodily movement and creating no physical product. In many cases, the employee even [asserts when polled](2022-11-11-bullshit-jobs) that their job is lacking any meaning. Physically productive jobs don't pay. Instead rewards are disproportionately distributed to speculative and rent-seeking industries. Most people have lost their professional dignity.
 
 ### Abstract Jobs in the 'Information Sector'
 
