@@ -53,6 +53,8 @@ Anyway, starting with Queen Elizabeth, some of the periods are referred to by th
 
 In contrast, in the Medieval period (pre-1450-ish) historians exclusively use the dynasty (Norman, Angevin, or Plantagenet), not the royal first names to refer to a particular era with one exception. 'Edwardian' occasionally means the period of Edward III's rule in the Hundred years' war. Also known as the Edwardian War.
 
+![](/assets/Pasted_image-20230216211544.png)
+
 ## Why do we draw the line at 1500?
 
 A number of things changed around this time. The Portuguese founded the first European colonies in Ceuta, the reformation of the Catholic Church occurred and the 'Renaissance' began, triggering the use of the word 'Modern' to describe the sense of forward trajectory. 
