@@ -55,18 +55,7 @@ Tech _is_ the anomaly, although it is now largely stagnating in terms of innovat
 
 The 'wealth', under question of redistribution, only exists to the degree of the effectiveness of our technology. At the most fundamental level, land itself has no value without farming, as we can only maintain a hunter-gatherer existence. 
 
-Social movements are also massively overrated in their consequences. In the arc of history, all social movements were only successful due to underlying technological developments.  It is impossible to draw straight lines between one and the other, but it is easy to see how certain movements could never have taken place without technology:
-
-- Stone axes and fire were the necessary precursor to civilization. 
-- Farming led to large centralized populations. 
-- The written word led to organized religion.
-- Bronze, archery, and horsemanship led to conquest and empire. 
-- The printing press led to the distribution of local language bible translations, and thus the Catholic Protestant split.
-- High quality ships and sailing enabled colonialism.
-- Industrialization of agriculture and production and more lucrative alternatives to sugar and coffee plantations, reducing the British Empire's economic dependence on the Caribbean and enabling the end of the slave trade.
-- Containerization of shipping led to extremely globalized trade and globalization.
-- The birth pill and washing machines liberated women from housework and enabled feminism.
-- The internet and social media led to increased polarity, distrust in politics.
+[2023-11-30-history-is-the-history-of-improving-technology](2023-11-30-history-is-the-history-of-improving-technology.md)
 
 Everything we take for granted is thanks to innovation, and the engine of global economic growth has been innovation. Nations with effectively no national resources can be built from nothing Japan, Taiwan, Hong Kong, Korea, Israel, Switzerland, Singapore and Scandinavian countries are all highly economically competitive countries. The metric we need right now is competition.
 
