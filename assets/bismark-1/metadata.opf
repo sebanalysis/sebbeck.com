@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">c6eb5fe4-149c-4a51-bcb1-55f57bbefa64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6eb5fe4-149c-4a51-bcb1-55f57bbefa64</dc:identifier>
+        <dc:title>Bismarck &amp; the Development of Germany, Volume I The Period of Unification, 1815-1871</dc:title>
+        <dc:creator opf:file-as="Pflanze, Otto" opf:role="aut">Otto Pflanze</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-24T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This political history of Germany assesses Bismarck's role in the events which paved the way for the catastrophes of the twentieth century, showing how Bismarck first established the association between German nationalism, Prussian militarism, and Hohenzollern authoritarianism. The author is completing a second volume, "The Period of Consolidation, 1871-1890." Volume I has been awarded the &lt;i&gt;McKnight Foundation Humanities Award&lt;/i&gt;.&lt;/p&gt;</dc:description>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
