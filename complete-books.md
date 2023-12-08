@@ -6,6 +6,7 @@
 [bismark-1](/assets/bismark-1/bismark-1.html)
 
 [bismark-2](/assets/bismark-2/bismark-2.html)
+[bismark-2a](/assets/bismark-2/bismark-2a.html)
 [bismark-2.txt](/assets/bismark-2/bismark-2.txt)
 
 [bismark-3](/assets/bismark-3/bismark-3.html)
