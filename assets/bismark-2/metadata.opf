@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">c48f9e51-d407-499b-9157-933e899c20ed</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c48f9e51-d407-499b-9157-933e899c20ed</dc:identifier>
+        <dc:title>Bismarck &amp; the Development of Germany, Volume II The Period of Consolidation, 1871-1880</dc:title>
+        <dc:creator opf:file-as="Pflanze, Otto" opf:role="aut">Otto Pflanze</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Princeton University Press</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
