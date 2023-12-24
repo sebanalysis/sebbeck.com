@@ -1,3 +1,5 @@
+# Can We Power The World With Solar Panels?
+
 How many times have you heard the claim that "we can power the world with solar photovoltaic (PV) power". I will now subject it to a bounding engineering analysis, purely in terms of land area. It is a trivial calculation to calculate how much land area of solar farm is required to supply the equivalent electrical energy averaged over the year. For each country, you simply find out how much energy it uses. Then you find out how much electricity solar power produces per unit land area in that country. In this process, an number of assumptions are required.
 
 ![](/assets/Pasted%20image%2020231223144204.png)
@@ -81,14 +83,14 @@ The installed capacity per unit area depends on what sort of panel efficiency an
 These are a bit dated. I have calculated an approximate estimate of the installed capacities of the largest solar farms in the UK. 
 
 - [NextEnergy Llanwern Solar PV Park, UK (power-technology.com)](https://www.power-technology.com/marketdata/nextenergy-llanwern-solar-pv-park-uk/?cf-view), 260 acres (1.05km²), 75 MWp: 71.4 W/m² 
-- [BSR | Shotwick Solar Park, Flintshire | 72.2 MW | British Solar… (britishrenewables.com)](https://britishrenewables.com/portfolio/shotwick), 220 acres (0.89km²), 72.2 MWp: 86.7 W/m²
+- [BSR Shotwick Solar Park, Flintshire (britishrenewables.com)](https://britishrenewables.com/portfolio/shotwick), 220 acres (0.89km²), 72.2 MWp: 86.7 W/m²
 - [Power plant profile: Wymeswold Airfield Solar Park, UK (power-technology.com)](https://www.power-technology.com/data-insights/power-plant-profile-wymeswold-airfield-solar-park-uk/?cf-view), 78 hectares (0.78km²), 34.4MWp: 43.7 W/m²
 
-Lets take the approximate mean value of 80 W/m².
+Let's take the approximate mean value of the most efficient two plants: 80 W/m².
 
-We can ignore the other minor factoros of the embodied energy used to create the solar panel or the availability factor.
+We can ignore the other minor factors of the embodied energy used to create the solar panel or the availability factor.
 
-Therefore, the average annualized output is 14.4W/m² equal to 454 TJ/km²/year.
+Therefore, the average annualized output is 14.4W/mm²,equal to 454 TJ/km²/year.
 
 Using the approximate numbers of consumption: 381E+18 J  and production: 454E+12 J/km², we can calculate a minimum gross area requirement of 840,000 km², only 0.64% of global land area!
 
@@ -96,8 +98,7 @@ With this crude calculation, it seems very feasible that we could in fact power 
 
 1. The storage required to overcome intermittency and achieve grid stability.
 2. The less sunny places use most of the energy.
-3. Material requirements and embodied energy requirements to rebuild this quantity of solar panels each 20 year are execessive.
-
+3. Material requirements and embodied energy requirements to rebuild this quantity of solar panels each 20 year are excessive
 
 We can only power the world with solar power if we dramatically reduce per-capita consumption or population. Neither of these things are going to happen.
 
