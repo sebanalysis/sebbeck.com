@@ -1,6 +1,6 @@
 How many times have you heard the claim that "we can power the world with solar photovoltaic (PV) power". I will now subject it to a bounding engineering analysis, purely in terms of land area. It is a trivial calculation to calculate how much land area of solar farm is required to supply the equivalent electrical energy averaged over the year. For each country, you simply find out how much energy it uses. Then you find out how much electricity solar power produces per unit land area in that country. In this process, an number of assumptions are required.
 
-![](assets/Pasted%20image%2020231223144204.png)
+![](/assets/Pasted%20image%2020231223144204.png)
 
 ## Energy Consumption
 
@@ -8,30 +8,30 @@ The global annual primary energy consumption ([using the substitution method (a.
 
 This 595 ExaJoules has an equivalent energy content to [97 billion barrels per year of crude oil](https://www.google.com/search?q=unit+converter+595.15+exajoules+to+boe). A volume of 15.5 km³ (assuming 160 L/barrel). A flow rate of 491 m³/s, equivalent to the flow rate of either the Rhone or Saône, as they flow through Lyon. More than 5 times the flow rate of the Thames as it meets the North Sea. This volume would need 48,500 large oil tankers to transport it. The energy consumption alone amounts to 300,000 Saturn 5 rockets, at launch; enough energy to boil Loch Ness within an hour.
 
-![](assets/Pasted%20image%2020231223165312.png)
+![](/assets/Pasted%20image%2020231223165312.png)
 > The river Rhone, with the water replaced by oil. The global energy consumption rate in terms of crude oil equivalent. 
 
 Note that, of this total energy equivalent, only a third is actually oil. BP reports a global oil consumption of 89.877 million barrels per day, which equates to 32 billion barrels per year. That is still equivalent to the Thames, in London, in winter during high flow.
 
 Worldwide, the more than three quarters of energy consumption remains fossil fuels. This remains _unchanged_ from the 1997, the date of the Kyoto protocol.
 
-![](assets/Pasted%20image%2020231224152113.png)
+![](/assets/Pasted%20image%2020231224152113.png)
 [Energy Production and Consumption - Our World in Data](https://ourworldindata.org/energy-production-consumption)
 
 In fact, the fossil fuel proportion was actually decreasing from 1970 to 1997, then increasing until 2012.
 
-![](assets/Pasted%20image%2020231224161416.png)
+![](/assets/Pasted%20image%2020231224161416.png)
 [Energy Production and Consumption - Our World in Data](https://ourworldindata.org/energy-production-consumption)
 
 ## First assumption: ignore waste heat from electrical generation
 
 Of the primary energy consumption shown above, some amount is converted to electricity, where most of the primary energy is wasted as heat, direct to the atmosphere or body of water. Solar only needs to replace the electrical energy demand, not the total primary energy input. [Our World in Data](https://ourworldindata.org/grapher/electricity-production-by-source) estimates a total global electricity demand of 103.18 ExaJoules (28660.98 TWh). Using the BP thermal efficiency substitution figure for 2021 of 40.6%, this electrical generation would have required 254.14 ExaJoules (70593 TWh) of primary energy input. __The fact that primary energy used for electricity is 40% of total primary energy is a total coincidence and has no relation to the BP thermal efficiency figure.
 
-![](assets/Pasted%20image%2020231224184447.png)
+![](/assets/Pasted%20image%2020231224184447.png)
 
 Of the primary energy used to generate electricity, 60% is converted to waste heat and only 40% is converted to electricity:
 
-![](assets/Pasted%20image%2020231224184452.png)
+![](/assets/Pasted%20image%2020231224184452.png)
 
 ## Second assumption: efficiency from electrifying transport and heating
 
@@ -47,11 +47,11 @@ Electrifying heating and transport can theoretically make things more efficient.
 
 There are many mental gymnastics involved in getting to the number of 42.5% savings from electrification. We should ignore behaviour changes. Energy demand will increase into the future. We should ignore the energy cost of mining fossil fuels, as the energy cost of making solar panels, wind turbines and batteries can be expected to at least equal this. So we are left with 23% savings; primarily from the adoption of electric cars and heat pumps. Electric cars are 90% efficient as opposed internal combustion engines which are 35% efficient. Heat pumps can be more than 100% efficient, as they 'steal heat from the environment' and move it inside. I will downgrade this to a round number of 20% savings from electrification. 
 
-![](assets/Pasted%20image%2020231224185759.png)
+![](/assets/Pasted%20image%2020231224185759.png)
 
 The energy requirements for a fully electrified world are thus only 64% of the total primary energy figure of 595 ExaJoules, approximately 381 ExaJoules.
 
-![](assets/Pasted%20image%2020231224190312.png)
+![](/assets/Pasted%20image%2020231224190312.png)
 
 ## Solar power per unit area
 
