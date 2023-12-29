@@ -16,7 +16,7 @@ Engineering innovation, the fundamental driving force behind all the progress in
 
 Put simply, in the 50 years from 1925 to 1975 we saw highly visible innovations in transport (flight, spaceflight, automobile networks), great leaps in comfort (universal sewerage networks, central heating), a multiplication of food provision tech: (mechanization and synthetic fertilizers) and countless medical innovations (wide use of anaesthesia, antibiotics). It is trivializing to sum it up so briefly.
 
-In the 48 years from 1975 to 2023 what have we seen aside from the screens and the technology is behind them? Ask yourself what has changed about the world? Not much. This is a tragedy. 
+In the 48 years from 1975 to 2023 what has changed in your average room apart from the presence of screen? Ask yourself what has changed about the world? Not much. This is a tragedy. 
 
 An obvious symptom is that, global GDP diverged from energy consumption in 1970. There is a difference between the real economy and moving numbers around in a SQL database, as [George Hotz puts quite well](https://geohot.github.io/blog/jekyll/update/2020/08/07/on-money-creation.html).
 
@@ -29,7 +29,7 @@ But hopefully, the convergence of interests in actually building a better world 
 ### Tech People: 
 
 - [Curtis Yarvin](https://en.wikipedia.org/wiki/Curtis_Yarvin) (a.k.a. Mendicus Moldburg). [New Blog](https://graymirror.substack.com/)  ([Old blog](https://www.unqualified-reservations.org/)) - Controversial. Popularizer of the "Red pill". Promotes Neo-Cameralism, where countries should be run more like joint stock companies. Three kings theory of America (Washington, Lincoln and Roosevelt).
-- Balaji Srinivasan - Made some start-ups, but really just hits the nail on the head with all his podcasts. Scathing criticism of the establishment. Promoting new institutions
+- Balaji Srinivasan - Made some start-ups, but really just hits the nail on the head with all his podcasts. Scathing criticism of the establishment. Promoting new institutions.
 - Antonio García Martínez [Twitter](https://twitter.com/antoniogm).  Scathing criticism of the Establishment. 
 - [Marc Andressen](https://pmarca.substack.com/) ([Old blog](https://pmarchive.com/)) - Made one of the first web browsers and lots of money in the 90's. Understands that the system is broken.
 - George Hotz - Made AI driving possible by building a 

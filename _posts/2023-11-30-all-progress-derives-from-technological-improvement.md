@@ -63,8 +63,6 @@ But in turn, we have suffter the he freedom of our society to build any physical
 
 This thing, 'liberty' that is sold, generation after generation is always and has always been a trade. It is a compromise. I simply want us to recognise that there is a balance to be had
 
-
-
 So, despite practically everyone knowing that we have been freed from the daily existential suffering surviving because of the technology we made for ourselves, and our paradigm remaining true, only because we continue to use this technology, practically no one is operating or more importantly arguing to governance decisions on this basis. Technological advancement is simply not the frame of debate. It's not even that its not in the Overton window. Its as if the window is on the other side of the building. We are looking in totally in the wrong direction.
 
 This is why politics is boring. It is just power. We need to collectively understand that technology is the source of our wealth.
